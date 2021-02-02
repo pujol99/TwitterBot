@@ -1,0 +1,195 @@
+User object:
+    .id                     :int
+    .name                   :string
+    .screen_name            :string
+    .description            :string
+    .followers_count        :int
+    .friends_count          :int
+    .statuses_count         :int
+    .status                 :last Status
+
+Status object:
+    .created_at             :string
+    .id                     :int
+    .text                   :string
+    .entities               :Entity 
+    .in_reply_to_status_id  :int
+    .in_reply_to_user_id    :int
+    .in_reply_to_screen_name:string
+    .retweet_count          :int
+    .favorite_count         :int
+    .favorited              :bool
+    .retweeted              :bool
+
+Entity object:
+    .hashtags               :Hastag list
+    .user_mentions          :Mentions list
+    .urls                   :Url list
+    .media                  :Media object
+
+Hashtag object:
+    .text                   :string
+
+Mentions object:
+    .name                   :string
+    .screen_name            :string
+    .id                     :int
+
+
+
+ITERATION:
+
+for element in tp.Cursor(api.elements).items(limit):
+    element
+
+API:
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+api.home_timeline(since_id, max_id)
+
+Returns the 20 most recent statuses, including retweets, 
+posted by the authenticating user and that user’s friends.
+This is the equivalent of /timeline/home on the We
+
+    since_id– 
+     Returns only statuses with an ID greater than
+     (that is, more recent than) thespecified ID.
+    max_id– 
+     Returns only statuses with an ID less than (that is, 
+     older than) or equal to thespecified ID.
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+api.user_timeline(id, since_id, max_id)
+
+Returns the 20 most recent statuses posted from 
+the authenticating user or the user specified.
+It’s also possible to request another user’s timeline via
+the id parameter
+
+    id- Specify user's timeline
+    since_id- only statusses with ids greater than
+    max_id- only statuses with ids less than
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+api.retweets_of_me(since_id, max_id)
+
+Returns the 20 most recent tweets of the authenticated user
+that have been retweeted by others
+
+    since_id- only retweets with ids greater than
+    max_id- only retweets with ids less than
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+api.mentions_timeline(since_id, max_id)
+
+Returns the 20 most recent mentions, including retweets
+
+    since_id- only mentions with ids greater than
+    max_id- only mentions with ids less than
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+api.get_status(id)
+
+Returns a single status specified by the ID parameter.
+
+    id- numerical id of a status
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+api.update_status(status, in_reply_to_status_id,
+                    attachment_url, media_ids)
+Write a tweet
+
+    status- message
+    in_reply_to_status_id- id of an existing status
+    attachment_url- url
+    media_ids- list of media ids
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+api.update_with_media(filename, status, in_reply_to_status_id)
+
+Write a tweet with img
+
+    filename- path to img
+    status- message
+    in_reply_to_status_id- id of an existing status
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+api.destroy_status(id)
+
+Destroy tweet
+
+    id- tweet id
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+api.retweet(id)
+
+retweet tweet
+
+    id- tweet id
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+api.retweeters(id)
+
+return retweeters of a tweet
+
+    id- tweet id
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+api.get_user(id/screen_name)
+
+returns user object
+
+    id- user ids
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+api.me()
+
+Get my user object
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+api.friends(id/screen_id)
+
+Get who id follows
+
+    id- user id
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+api.followers(id/screen_id)
+
+Get who follows id
+
+    id- user id
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+api.get_direct_message(id, full_text)
+
+get a specific dm
+
+    id- message id
+    full_text- get full text or not
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+api.send_direct_message(reciever_id, text, reply_type,
+                            attachment_type, media_id)
+Send dm to id
+
+    id- reciever id
+    text- message
+    reply_type- options/text_input/location
+    attachment_type- media/location
+    media_id- media id
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+api.create_friendship(id, follow)
+
+follow id
+
+    id- who to follow
+    follow- recieve notifications boolean
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+api.destroy_friendship(id)
+
+unfollow id
+
+    id- who to unfollow
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+api.friends_ids(id)
+
+return list of ids of who id follows
+
+    id- id user
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+api.followers_ids(id)
+
+return list of ids of who follows id
+
+    id- id user
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+api.update_profile(name, url, location, description)
+
+update user profile
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
