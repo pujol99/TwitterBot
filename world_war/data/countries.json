@@ -1,1899 +1,2696 @@
 {
-    "Abkhazia": [
-        "Georgia",
-        "Russia",
-        "Turkey"
-    ],
-    "Afghanistan": [
-        "China",
-        "Iran",
-        "Pakistan",
-        "Tajikistan",
-        "Turkmenistan",
-        "Uzbekistan"
-    ],
-    "Albania": [
-        "Greece",
-        "Italy",
-        "Montenegro",
-        "North Macedonia",
-        "Kosovo",
-        "Serbia"
-    ],
-    "Algeria": [
-        "Italy",
-        "Libya",
-        "Mali",
-        "Mauritania",
-        "Morocco",
-        "Niger",
-        "Spain",
-        "Tunisia",
-        "Western Sahara"
-    ],
-    "American Samoa": [
-        "Samoa",
-        "Tonga",
-        "Cook Islands",
-        "New Zealand",
-        "Niue",
-        "New Zealand",
-        "Tokelau",
-        "New Zealand"
-    ],
-    "Andorra": [
-        "France",
-        "Spain"
-    ],
-    "Angola": [
-        "Democratic Republic of the Congo",
-        "Republic of the Congo",
-        "Namibia",
-        "Zambia"
-    ],
-    "Anguilla": [
-        "Antigua and Barbuda",
-        "British Virgin Islands",
-        "United Kingdom",
-        "Netherlands",
-        "Saint Barth\u00e9lemy",
-        "France",
-        "France",
-        "United States Virgin Islands",
-        "United States"
-    ],
-    "Antigua and Barbuda": [
-        "France",
-        "Saint Kitts and Nevis",
-        "Anguilla",
-        "United Kingdom",
-        "Montserrat",
-        "United Kingdom",
-        "Saint Barth\u00e9lemy",
-        "France"
-    ],
-    "Argentina": [
-        "Bolivia",
-        "Brazil",
-        "Chile",
-        "Paraguay",
-        "Uruguay",
-        "Falkland Islands",
-        "United Kingdom"
-    ],
-    "Argentine Antarctica": [
-        "Chilean Antarctic Territory",
-        "Chile",
-        "British Antarctic Territory",
-        "United Kingdom"
-    ],
-    "Armenia": [
-        "Azerbaijan",
-        "Georgia",
-        "Iran",
-        "Turkey"
-    ],
-    "Republic of Artsakh": [
-        "Armenia",
-        "Azerbaijan"
-    ],
-    "Aruba": [
-        "Cura\u00e7ao",
-        "Netherlands",
-        "Dominican Republic",
-        "Venezuela"
-    ],
-    "Ashmore and Cartier Islands": [
-        "Australia",
-        "East Timor",
-        "Indonesia"
-    ],
-    "Australia": [
-        "East Timor",
-        "Indonesia",
-        "New Zealand",
-        "Papua New Guinea",
-        "Solomon Islands",
-        "French Southern and Antarctic Lands",
-        "France",
-        "New Caledonia",
-        "France"
-    ],
-    "Austria": [
-        "Czech Republic",
-        "Germany",
-        "Hungary",
-        "Italy",
-        "Liechtenstein",
-        "Slovakia",
-        "Slovenia",
-        "Switzerland"
-    ],
-    "Azerbaijan": [
-        "Armenia",
-        "Georgia",
-        "Iran",
-        "Kazakhstan",
-        "Russia",
-        "Turkey",
-        "Turkmenistan"
-    ],
-    "Bahamas": [
-        "Cuba",
-        "Haiti",
-        "United States",
-        "Turks and Caicos Islands",
-        "United Kingdom"
-    ],
-    "Bahrain": [
-        "Iran",
-        "Qatar",
-        "Saudi Arabia"
-    ],
-    "Bangladesh": [
-        "Myanmar",
-        "India"
-    ],
-    "Barbados": [
-        "France",
-        "Guyana",
-        "Saint Lucia",
-        "Saint Vincent and the Grenadines",
-        "Trinidad and Tobago",
-        "Venezuela"
-    ],
-    "Belarus": [
-        "Latvia",
-        "Lithuania",
-        "Poland",
-        "Russia",
-        "Ukraine"
-    ],
-    "Belgium": [
-        "France",
-        "Germany",
-        "Luxembourg",
-        "Netherlands",
-        "United Kingdom"
-    ],
-    "Belize": [
-        "Guatemala",
-        "Honduras",
-        "Mexico"
-    ],
-    "Benin": [
-        "Burkina Faso",
-        "Niger",
-        "Nigeria",
-        "Togo"
-    ],
-    "Bermuda": [],
-    "Bhutan": [
-        "China",
-        "India"
-    ],
-    "Bolivia": [
-        "Argentina",
-        "Brazil",
-        "Chile",
-        "Paraguay",
-        "Peru"
-    ],
-    "Bosnia and Herzegovina": [
-        "Croatia",
-        "Montenegro",
-        "Serbia"
-    ],
-    "Botswana": [
-        "Namibia",
-        "South Africa",
-        "Zambia",
-        "Zimbabwe"
-    ],
-    "Bouvet Island": [],
-    "Brazil": [
-        "Argentina",
-        "Bolivia",
-        "Colombia",
-        "France",
-        "Guyana",
-        "Paraguay",
-        "Peru",
-        "Suriname",
-        "Uruguay",
-        "Venezuela"
-    ],
-    "British Antarctic Territory": [
-        "Chilean Antarctic Territory",
-        "Chile",
-        "Argentine Antarctica",
-        "Argentina",
-        "Norway"
-    ],
-    "British Indian Ocean Territory": [
-        "Maldives"
-    ],
-    "British Virgin Islands": [
-        "Anguilla",
-        "United Kingdom",
-        "Puerto Rico",
-        "United States",
-        "United States Virgin Islands",
-        "United States"
-    ],
-    "Brunei": [
-        "China",
-        "Malaysia",
-        "Philippines",
-        "Taiwan",
-        "Vietnam"
-    ],
-    "Bulgaria": [
-        "Greece",
-        "North Macedonia",
-        "Romania",
-        "Serbia",
-        "Turkey"
-    ],
-    "Burkina Faso": [
-        "Benin",
-        "C\u00f4te d'Ivoire",
-        "Ghana",
-        "Mali",
-        "Niger",
-        "Togo"
-    ],
-    "Burundi": [
-        "Democratic Republic of the Congo",
-        "Rwanda",
-        "Tanzania"
-    ],
-    "Cambodia": [
-        "Laos",
-        "Thailand",
-        "Vietnam"
-    ],
-    "Cameroon": [
-        "Central African Republic",
-        "Chad",
-        "Republic of the Congo",
-        "Equatorial Guinea",
-        "Gabon",
-        "Nigeria"
-    ],
-    "Canada": [
-        "United States",
-        "Greenland",
-        "Denmark",
-        "Saint Pierre and Miquelon",
-        "France"
-    ],
-    "Cape Verde": [
-        "The Gambia",
-        "Mauritania",
-        "Senegal"
-    ],
-    "Cayman Islands": [
-        "Cuba",
-        "Honduras",
-        "Jamaica"
-    ],
-    "Central African Republic": [
-        "Cameroon",
-        "Chad",
-        "Democratic Republic of the Congo",
-        "Republic of the Congo",
-        "South Sudan",
-        "Sudan"
-    ],
-    "Chad": [
-        "Cameroon",
-        "Central African Republic",
-        "Libya",
-        "Niger",
-        "Nigeria",
-        "Sudan"
-    ],
-    "Chile": [
-        "Argentina",
-        "Bolivia",
-        "Peru"
-    ],
-    "Chilean Antarctic Territory": [
-        "Argentine Antarctica",
-        "Argentina",
-        "British Antarctic Territory",
-        "United Kingdom",
-        "Norway"
-    ],
-    "China": [
-        "Afghanistan",
-        "Bhutan",
-        "Brunei",
-        "India",
-        "Indonesia",
-        "Japan",
-        "Kazakhstan",
-        "North Korea",
-        "South Korea",
-        "Kyrgyzstan",
-        "Laos",
-        "Malaysia",
-        "Mongolia",
-        "Myanmar",
-        "Nepal",
-        "Pakistan",
-        "Philippines",
-        "Russia",
-        "Tajikistan",
-        "Vietnam",
-        "Taiwan"
-    ],
-    "Christmas Island": [
-        "Indonesia"
-    ],
-    "Clipperton Island": [],
-    "Cocos (Keeling) Islands": [],
-    "Colombia": [
-        "Brazil",
-        "Costa Rica",
-        "Dominican Republic",
-        "Ecuador",
-        "Haiti",
-        "Jamaica",
-        "Nicaragua",
-        "Panama",
-        "Peru",
-        "Venezuela"
-    ],
-    "Comoros": [
-        "France",
-        "Madagascar",
-        "Mozambique",
-        "Seychelles",
-        "Tanzania",
-        "French Southern and Antarctic Lands",
-        "France"
-    ],
-    "Democratic Republic of the Congo": [
-        "Angola",
-        "Burundi",
-        "Central African Republic",
-        "Republic of the Congo",
-        "Rwanda",
-        "South Sudan",
-        "Tanzania",
-        "Uganda",
-        "Zambia"
-    ],
-    "Republic of the Congo": [
-        "Angola",
-        "Cameroon",
-        "Central African Republic",
-        "Democratic Republic of the Congo",
-        "Gabon"
-    ],
-    "Cook Islands": [
-        "Kiribati",
-        "American Samoa",
-        "United States",
-        "French Polynesia",
-        "France",
-        "Niue",
-        "New Zealand",
-        "Tokelau",
-        "New Zealand"
-    ],
-    "Coral Sea Islands": [
-        "Australia",
-        "New Caledonia",
-        "France",
-        "Papua New Guinea",
-        "Solomon Islands"
-    ],
-    "Costa Rica": [
-        "Colombia",
-        "Ecuador",
-        "Nicaragua",
-        "Panama"
-    ],
-    "C\u00f4te d'Ivoire": [
-        "Burkina Faso",
-        "Ghana",
-        "Guinea",
-        "Liberia",
-        "Mali"
-    ],
-    "Croatia": [
-        "Bosnia and Herzegovina",
-        "Hungary",
-        "Italy",
-        "Montenegro",
-        "Serbia",
-        "Slovenia"
-    ],
-    "Cuba": [
-        "Bahamas",
-        "Haiti",
-        "Honduras",
-        "Jamaica",
-        "Mexico",
-        "United States",
-        "Cayman Islands",
-        "United Kingdom",
-        "Navassa Island",
-        "United States"
-    ],
-    "Cura\u00e7ao": [
-        "Dominican Republic",
-        "Netherlands",
-        "Venezuela",
-        "Aruba",
-        "Netherlands"
-    ],
-    "Cyprus": [
-        "Northern Cyprus",
-        "Egypt",
-        "Greece",
-        "Israel",
-        "Lebanon",
-        "Syria",
-        "Turkey",
-        "United Kingdom"
-    ],
-    "Northern Cyprus": [
-        "Cyprus",
-        "Syria",
-        "Turkey",
-        "United Kingdom"
-    ],
-    "Czech Republic": [
-        "Austria",
-        "Germany",
-        "Poland",
-        "Slovakia"
-    ],
-    "Denmark": [
-        "Germany",
-        "Norway",
-        "Poland",
-        "Sweden",
-        "United Kingdom"
-    ],
-    "Djibouti": [
-        "Eritrea",
-        "Ethiopia",
-        "Somalia",
-        "Yemen"
-    ],
-    "Dominica": [
-        "France",
-        "Venezuela"
-    ],
-    "Dominican Republic": [
-        "Colombia",
-        "Haiti",
-        "Venezuela",
-        "Aruba",
-        "Netherlands",
-        "Cura\u00e7ao",
-        "Netherlands",
-        "Puerto Rico",
-        "United States",
-        "Turks and Caicos Islands",
-        "United Kingdom"
-    ],
-    "East Timor": [
-        "Australia",
-        "Indonesia",
-        "Ashmore and Cartier Islands",
-        "Australia"
-    ],
-    "Ecuador": [
-        "Colombia",
-        "Costa Rica",
-        "Peru"
-    ],
-    "Egypt": [
-        "Cyprus",
-        "Greece",
-        "Israel",
-        "Jordan",
-        "Libya",
-        "Saudi Arabia",
-        "Sudan",
-        "Turkey",
-        "Palestine"
-    ],
-    "El Salvador": [
-        "Guatemala",
-        "Honduras",
-        "Nicaragua"
-    ],
-    "Equatorial Guinea": [
-        "Cameroon",
-        "Gabon",
-        "Nigeria",
-        "S\u00e3o Tom\u00e9 and Pr\u00edncipe"
-    ],
-    "Eritrea": [
-        "Djibouti",
-        "Saudi Arabia",
-        "Sudan",
-        "Ethiopia",
-        "Yemen"
-    ],
-    "Estonia": [
-        "Finland",
-        "Latvia",
-        "Russia",
-        "Sweden"
-    ],
-    "Eswatini (Swaziland)": [
-        "Mozambique",
-        "South Africa"
-    ],
-    "Ethiopia": [
-        "Djibouti",
-        "Eritrea",
-        "Kenya",
-        "Somalia",
-        "South Sudan",
-        "Sudan"
-    ],
-    "Falkland Islands": [
-        "Argentina"
-    ],
-    "Faroe Islands": [
-        "Iceland",
-        "Norway",
-        "United Kingdom"
-    ],
-    "Fiji": [
-        "New Zealand",
-        "Solomon Islands",
-        "Tonga",
-        "Tuvalu",
-        "Vanuatu",
-        "New Caledonia",
-        "France",
-        "Wallis and Futuna",
-        "France"
-    ],
-    "Finland": [
-        "Estonia",
-        "Norway",
-        "Russia",
-        "Sweden"
-    ],
-    "France": [
-        "Andorra",
-        "Antigua and Barbuda",
-        "Barbados",
-        "Belgium",
-        "Brazil",
-        "Comoros",
-        "Dominica",
-        "Germany",
-        "Italy",
-        "Luxembourg",
-        "Madagascar",
-        "Mauritius",
-        "Monaco",
-        "Saint Lucia",
-        "Spain",
-        "Switzerland",
-        "Suriname",
-        "United Kingdom",
-        "Venezuela",
-        "French Southern and Antarctic Lands",
-        "France",
-        "Guernsey",
-        "United Kingdom",
-        "Jersey",
-        "United Kingdom",
-        "Montserrat",
-        "United Kingdom"
-    ],
-    "French Polynesia": [
-        "Kiribati",
-        "Cook Islands",
-        "New Zealand",
-        "Pitcairn Islands",
-        "United Kingdom"
-    ],
-    "French Southern and Antarctic Lands": [
-        "Comoros",
-        "France",
-        "Madagascar",
-        "Mauritius",
-        "Mozambique",
-        "Seychelles",
-        "Heard Island and McDonald Islands",
-        "Australia"
-    ],
-    "Gabon": [
-        "Cameroon",
-        "Republic of the Congo",
-        "Equatorial Guinea",
-        "S\u00e3o Tom\u00e9 and Pr\u00edncipe"
-    ],
-    "The Gambia": [
-        "Cape Verde",
-        "Senegal"
-    ],
-    "Georgia": [
-        "Armenia",
-        "Azerbaijan",
-        "Russia",
-        "Turkey"
-    ],
-    "Germany": [
-        "Austria",
-        "Belgium",
-        "Czech Republic",
-        "Denmark",
-        "France",
-        "Luxembourg",
-        "Netherlands",
-        "Poland",
-        "Sweden",
-        "Switzerland",
-        "United Kingdom"
-    ],
-    "Ghana": [
-        "Burkina Faso",
-        "C\u00f4te d'Ivoire",
-        "Togo"
-    ],
-    "Gibraltar": [
-        "Spain"
-    ],
-    "Greece": [
-        "Albania",
-        "Bulgaria",
-        "Cyprus",
-        "Egypt",
-        "Italy",
-        "Libya",
-        "North Macedonia",
-        "Turkey"
-    ],
-    "Greenland": [
-        "Canada",
-        "Iceland",
-        "Jan Mayen",
-        "Norway",
-        "Svalbard",
-        "Norway"
-    ],
-    "Grenada": [
-        "Saint Vincent and the Grenadines",
-        "Trinidad and Tobago",
-        "Venezuela"
-    ],
-    "Guam": [
-        "Federated States of Micronesia",
-        "Northern Mariana Islands",
-        "United States"
-    ],
-    "Guatemala": [
-        "Belize",
-        "El Salvador",
-        "Honduras",
-        "Mexico"
-    ],
-    "Guernsey": [
-        "France",
-        "United Kingdom",
-        "Jersey",
-        "United Kingdom"
-    ],
-    "Guinea": [
-        "C\u00f4te d'Ivoire",
-        "Guinea-Bissau",
-        "Liberia",
-        "Mali",
-        "Senegal",
-        "Sierra Leone"
-    ],
-    "Guinea-Bissau": [
-        "Guinea",
-        "Senegal"
-    ],
-    "Guyana": [
-        "Barbados",
-        "Brazil",
-        "Suriname",
-        "Trinidad and Tobago",
-        "Venezuela"
-    ],
-    "Haiti": [
-        "Bahamas",
-        "Colombia",
-        "Cuba",
-        "Dominican Republic",
-        "Jamaica",
-        "Navassa Island",
-        "United States",
-        "Turks and Caicos Islands",
-        "United Kingdom"
-    ],
-    "Heard Island and McDonald Islands": [
-        "French Southern and Antarctic Lands",
-        "France"
-    ],
-    "Honduras": [
-        "Belize",
-        "Cuba",
-        "El Salvador",
-        "Guatemala",
-        "Jamaica",
-        "Mexico",
-        "Nicaragua",
-        "Cayman Islands",
-        "United Kingdom"
-    ],
-    "Hong Kong": [
-        "China"
-    ],
-    "Hungary": [
-        "Austria",
-        "Croatia",
-        "Romania",
-        "Serbia",
-        "Slovakia",
-        "Slovenia",
-        "Ukraine"
-    ],
-    "Iceland": [
-        "Faroe Islands",
-        "Denmark",
-        "Greenland",
-        "Denmark",
-        "Jan Mayen",
-        "Norway"
-    ],
-    "India": [
-        "Bangladesh",
-        "Bhutan",
-        "Myanmar",
-        "China",
-        "Indonesia",
-        "Maldives",
-        "Nepal",
-        "Pakistan",
-        "Sri Lanka",
-        "Thailand"
-    ],
-    "Indonesia": [
-        "Australia",
-        "China",
-        "East Timor",
-        "India",
-        "Malaysia",
-        "Palau",
-        "Papua New Guinea",
-        "Philippines",
-        "Singapore",
-        "Taiwan",
-        "Thailand",
-        "Vietnam",
-        "Ashmore and Cartier Islands",
-        "Australia",
-        "Christmas Island",
-        "Australia"
-    ],
-    "Iran": [
-        "Afghanistan",
-        "Armenia",
-        "Azerbaijan",
-        "Bahrain",
-        "Iraq",
-        "Kuwait",
-        "Oman",
-        "Pakistan",
-        "Qatar",
-        "Saudi Arabia",
-        "Turkey",
-        "Turkmenistan",
-        "United Arab Emirates"
-    ],
-    "Iraq": [
-        "Iran",
-        "Jordan",
-        "Kuwait",
-        "Saudi Arabia",
-        "Syria",
-        "Turkey"
-    ],
-    "Ireland": [
-        "United Kingdom"
-    ],
-    "Isle of Man": [
-        "United Kingdom"
-    ],
-    "Israel": [
-        "Cyprus",
-        "Egypt",
-        "Jordan",
-        "Lebanon",
-        "Syria",
-        "Palestine"
-    ],
-    "Italy": [
-        "Albania",
-        "Algeria",
-        "Austria",
-        "Croatia",
-        "France",
-        "Greece",
-        "Libya",
-        "Malta",
-        "Montenegro",
-        "San Marino",
-        "Slovenia",
-        "Spain",
-        "Switzerland",
-        "Tunisia",
-        "Vatican City"
-    ],
-    "Jamaica": [
-        "Colombia",
-        "Cuba",
-        "Haiti",
-        "Honduras",
-        "Nicaragua",
-        "Cayman Islands",
-        "United Kingdom",
-        "Navassa Island",
-        "United States"
-    ],
-    "Jan Mayen": [
-        "Iceland",
-        "Greenland",
-        "Denmark"
-    ],
-    "Japan": [
-        "China",
-        "South Korea",
-        "Palau",
-        "Philippines",
-        "Russia",
-        "Northern Mariana Islands",
-        "United States",
-        "Taiwan"
-    ],
-    "Jarvis Island": [
-        "Kiribati"
-    ],
-    "Jersey": [
-        "France",
-        "Guernsey",
-        "United Kingdom"
-    ],
-    "Johnston Atoll": [],
-    "Jordan": [
-        "Egypt",
-        "Iraq",
-        "Israel",
-        "Saudi Arabia",
-        "Syria",
-        "Palestine"
-    ],
-    "Kazakhstan": [
-        "Azerbaijan",
-        "China",
-        "Kyrgyzstan",
-        "Russia",
-        "Turkmenistan",
-        "Uzbekistan"
-    ],
-    "Kenya": [
-        "Ethiopia",
-        "Somalia",
-        "South Sudan",
-        "Tanzania",
-        "Uganda"
-    ],
-    "Kingman Reef": [
-        "Kiribati",
-        "Palmyra Atoll",
-        "United States"
-    ],
-    "Kiribati": [
-        "Marshall Islands",
-        "Nauru",
-        "Tuvalu",
-        "Cook Islands",
-        "New Zealand",
-        "French Polynesia",
-        "France",
-        "United States",
-        "Jarvis Island",
-        "United States",
-        "Kingman Reef",
-        "United States",
-        "Palmyra Atoll",
-        "United States",
-        "Tokelau",
-        "New Zealand"
-    ],
-    "North Korea": [
-        "China",
-        "South Korea",
-        "Russia"
-    ],
-    "South Korea": [
-        "China",
-        "Japan",
-        "North Korea"
-    ],
-    "Kosovo": [
-        "Albania",
-        "Montenegro",
-        "North Macedonia",
-        "Serbia"
-    ],
-    "Kuwait": [
-        "Iran",
-        "Iraq",
-        "Saudi Arabia"
-    ],
-    "Kyrgyzstan": [
-        "China",
-        "Kazakhstan",
-        "Tajikistan",
-        "Uzbekistan"
-    ],
-    "Laos": [
-        "Myanmar",
-        "Cambodia",
-        "China",
-        "Thailand",
-        "Vietnam"
-    ],
-    "Latvia": [
-        "Belarus",
-        "Estonia",
-        "Lithuania",
-        "Russia",
-        "Sweden"
-    ],
-    "Lebanon": [
-        "Cyprus",
-        "Israel",
-        "Syria"
-    ],
-    "Lesotho": [
-        "South Africa"
-    ],
-    "Liberia": [
-        "C\u00f4te d'Ivoire",
-        "Guinea",
-        "Sierra Leone"
-    ],
-    "Libya": [
-        "Algeria",
-        "Chad",
-        "Egypt",
-        "Greece",
-        "Italy",
-        "Malta",
-        "Niger",
-        "Sudan",
-        "Tunisia",
-        "Turkey"
-    ],
-    "Liechtenstein": [
-        "Austria",
-        "Switzerland"
-    ],
-    "Lithuania": [
-        "Belarus",
-        "Latvia",
-        "Poland",
-        "Russia",
-        "Sweden"
-    ],
-    "Luxembourg": [
-        "Belgium",
-        "France",
-        "Germany"
-    ],
-    "Macau": [
-        "China"
-    ],
-    "Madagascar": [
-        "Comoros",
-        "France",
-        "Mauritius",
-        "Mozambique",
-        "Seychelles",
-        "French Southern and Antarctic Lands",
-        "France"
-    ],
-    "Malawi": [
-        "Mozambique",
-        "Tanzania",
-        "Zambia"
-    ],
-    "Malaysia": [
-        "Brunei",
-        "China",
-        "Indonesia",
-        "Philippines",
-        "Singapore",
-        "Thailand",
-        "Vietnam",
-        "Taiwan"
-    ],
-    "Maldives": [
-        "India",
-        "Sri Lanka",
-        "British Indian Ocean Territory",
-        "United Kingdom"
-    ],
-    "Mali": [
-        "Algeria",
-        "Burkina Faso",
-        "C\u00f4te d'Ivoire",
-        "Guinea",
-        "Mauritania",
-        "Niger",
-        "Senegal"
-    ],
-    "Malta": [
-        "Italy",
-        "Libya",
-        "Tunisia"
-    ],
-    "Marshall Islands": [
-        "Kiribati",
-        "Federated States of Micronesia",
-        "Nauru",
-        "Wake Island",
-        "United States"
-    ],
-    "Mauritania": [
-        "Algeria",
-        "Cape Verde",
-        "Mali",
-        "Senegal",
-        "Western Sahara",
-        "Western Sahara",
-        "Morocco"
-    ],
-    "Mauritius": [
-        "France",
-        "Madagascar",
-        "Seychelles",
-        "French Southern and Antarctic Lands",
-        "France"
-    ],
-    "Mexico": [
-        "Belize",
-        "Cuba",
-        "Guatemala",
-        "Honduras",
-        "United States"
-    ],
-    "Federated States of Micronesia": [
-        "Marshall Islands",
-        "Palau",
-        "Papua New Guinea",
-        "Guam",
-        "United States"
-    ],
-    "Midway Atoll": [
-        "United States"
-    ],
-    "Moldova": [
-        "Romania",
-        "Ukraine"
-    ],
-    "Monaco": [
-        "France"
-    ],
-    "Mongolia": [
-        "China",
-        "Russia"
-    ],
-    "Montenegro": [
-        "Albania",
-        "Bosnia and Herzegovina",
-        "Croatia",
-        "Italy",
-        "Serbia",
-        "Kosovo"
-    ],
-    "Montserrat": [
-        "Antigua and Barbuda",
-        "France",
-        "Saint Kitts and Nevis",
-        "Venezuela"
-    ],
-    "Morocco": [
-        "Algeria",
-        "Portugal",
-        "Spain",
-        "Western Sahara"
-    ],
-    "Mozambique": [
-        "Comoros",
-        "Eswatini (Swaziland)",
-        "Madagascar",
-        "Malawi",
-        "South Africa",
-        "Tanzania",
-        "Zambia",
-        "Zimbabwe",
-        "French Southern and Antarctic Lands",
-        "France"
-    ],
-    "Myanmar": [
-        "Bangladesh",
-        "China",
-        "India",
-        "Laos",
-        "Thailand"
-    ],
-    "Namibia": [
-        "Angola",
-        "Botswana",
-        "South Africa",
-        "Zambia"
-    ],
-    "Nauru": [
-        "Kiribati",
-        "Marshall Islands"
-    ],
-    "Navassa Island": [
-        "Cuba",
-        "Haiti",
-        "Jamaica"
-    ],
-    "Nepal": [
-        "India",
-        "China"
-    ],
-    "Netherlands": [
-        "Belgium",
-        "Germany",
-        "Saint Kitts and Nevis",
-        "United Kingdom",
-        "Venezuela",
-        "Anguilla",
-        "United Kingdom",
-        "Cura\u00e7ao",
-        "Netherlands",
-        "Saint Barth\u00e9lemy",
-        "France",
-        "France",
-        "Sint Maarten",
-        "Netherlands",
-        "United States Virgin Islands",
-        "United States"
-    ],
-    "New Caledonia": [
-        "Fiji",
-        "Solomon Islands",
-        "Vanuatu",
-        "Coral Sea Islands",
-        "Australia",
-        "Norfolk Island",
-        "Australia"
-    ],
-    "New Zealand": [
-        "Australia",
-        "Fiji",
-        "Norfolk Island",
-        "Australia"
-    ],
-    "Nicaragua": [
-        "Colombia",
-        "Costa Rica",
-        "El Salvador",
-        "Honduras",
-        "Jamaica",
-        "Panama"
-    ],
-    "Niger": [
-        "Algeria",
-        "Benin",
-        "Burkina Faso",
-        "Chad",
-        "Libya",
-        "Mali",
-        "Nigeria"
-    ],
-    "Nigeria": [
-        "Benin",
-        "Cameroon",
-        "Chad",
-        "Equatorial Guinea",
-        "Niger",
-        "S\u00e3o Tom\u00e9 and Pr\u00edncipe"
-    ],
-    "Niue": [
-        "Tonga",
-        "American Samoa",
-        "United States",
-        "Cook Islands",
-        "New Zealand"
-    ],
-    "Norfolk Island": [
-        "New Zealand",
-        "New Caledonia",
-        "France"
-    ],
-    "North Macedonia": [
-        "Albania",
-        "Bulgaria",
-        "Greece",
-        "Serbia",
-        "Kosovo"
-    ],
-    "Northern Mariana Islands": [
-        "Japan",
-        "Guam",
-        "United States"
-    ],
-    "Norway": [
-        "Denmark",
-        "Finland",
-        "Russia",
-        "Sweden",
-        "United Kingdom",
-        "Faroe Islands",
-        "Denmark",
-        "Svalbard",
-        "Norway"
-    ],
-    "Oman": [
-        "Iran",
-        "Pakistan",
-        "Saudi Arabia",
-        "United Arab Emirates",
-        "Yemen"
-    ],
-    "Pakistan": [
-        "Afghanistan",
-        "China",
-        "India",
-        "Iran",
-        "Oman"
-    ],
-    "Palau": [
-        "Indonesia",
-        "Japan",
-        "Federated States of Micronesia",
-        "Philippines"
-    ],
-    "Palestine": [
-        "Egypt",
-        "Israel",
-        "Jordan"
-    ],
-    "Palmyra Atoll": [
-        "Kiribati",
-        "Kingman Reef",
-        "United States"
-    ],
-    "Panama": [
-        "Colombia",
-        "Costa Rica",
-        "Nicaragua"
-    ],
-    "Papua New Guinea": [
-        "Australia",
-        "Indonesia",
-        "Federated States of Micronesia",
-        "Solomon Islands",
-        "Coral Sea Islands",
-        "Australia"
-    ],
-    "Paraguay": [
-        "Argentina",
-        "Bolivia",
-        "Brazil"
-    ],
-    "Peru": [
-        "Bolivia",
-        "Brazil",
-        "Chile",
-        "Colombia",
-        "Ecuador"
-    ],
-    "Philippines": [
-        "Brunei",
-        "China",
-        "Indonesia",
-        "Japan",
-        "Malaysia",
-        "Palau",
-        "Vietnam",
-        "Taiwan"
-    ],
-    "Pitcairn Islands": [
-        "French Polynesia",
-        "France"
-    ],
-    "Poland": [
-        "Belarus",
-        "Czech Republic",
-        "Denmark",
-        "Germany",
-        "Lithuania",
-        "Russia",
-        "Slovakia",
-        "Sweden",
-        "Ukraine"
-    ],
-    "Portugal": [
-        "Morocco",
-        "Spain"
-    ],
-    "Puerto Rico": [
-        "Dominican Republic",
-        "Venezuela",
-        "British Virgin Islands",
-        "United Kingdom",
-        "United States Virgin Islands",
-        "United States"
-    ],
-    "Qatar": [
-        "Bahrain",
-        "Iran",
-        "Saudi Arabia",
-        "United Arab Emirates"
-    ],
-    "Romania": [
-        "Bulgaria",
-        "Hungary",
-        "Moldova",
-        "Russia",
-        "Serbia",
-        "Ukraine"
-    ],
-    "Russia": [
-        "Azerbaijan",
-        "Belarus",
-        "China",
-        "Estonia",
-        "Finland",
-        "Georgia",
-        "Japan",
-        "Kazakhstan",
-        "North Korea",
-        "Latvia",
-        "Lithuania",
-        "Mongolia",
-        "Norway",
-        "Poland",
-        "Romania",
-        "Sweden",
-        "Turkey",
-        "Ukraine",
-        "United States",
-        "Svalbard",
-        "Norway"
-    ],
-    "Rwanda": [
-        "Burundi",
-        "Democratic Republic of the Congo",
-        "Tanzania",
-        "Uganda"
-    ],
-    "Saint Barth\u00e9lemy": [
-        "Antigua and Barbuda",
-        "Netherlands",
-        "Saint Kitts and Nevis",
-        "Anguilla",
-        "United Kingdom",
-        "France",
-        "Sint Maarten",
-        "Netherlands"
-    ],
-    "Saint Helena, Ascension and Tristan da Cunha": [],
-    "Saint Kitts and Nevis": [
-        "Antigua and Barbuda",
-        "Netherlands",
-        "Venezuela",
-        "Montserrat",
-        "United Kingdom",
-        "Saint Barth\u00e9lemy",
-        "France"
-    ],
-    "Saint Lucia": [
-        "Barbados",
-        "France",
-        "Saint Vincent and the Grenadines",
-        "Venezuela"
-    ],
-    "Saint Pierre and Miquelon": [
-        "Canada"
-    ],
-    "Saint Vincent and the Grenadines": [
-        "Barbados",
-        "Grenada",
-        "Saint Lucia",
-        "Trinidad and Tobago",
-        "Venezuela"
-    ],
-    "Samoa": [
-        "Tonga",
-        "American Samoa",
-        "United States",
-        "Tokelau",
-        "New Zealand",
-        "Wallis and Futuna",
-        "France"
-    ],
-    "San Marino": [
-        "Italy"
-    ],
-    "S\u00e3o Tom\u00e9 and Pr\u00edncipe": [
-        "Equatorial Guinea",
-        "Gabon",
-        "Nigeria"
-    ],
-    "Saudi Arabia": [
-        "Bahrain",
-        "Egypt",
-        "Eritrea",
-        "Iran",
-        "Iraq",
-        "Jordan",
-        "Kuwait",
-        "Oman",
-        "Qatar",
-        "Sudan",
-        "United Arab Emirates",
-        "Yemen"
-    ],
-    "Senegal": [
-        "Cape Verde",
-        "The Gambia",
-        "Guinea",
-        "Guinea-Bissau",
-        "Mali",
-        "Mauritania"
-    ],
-    "Serbia": [
-        "Bosnia and Herzegovina",
-        "Bulgaria",
-        "Croatia",
-        "Hungary",
-        "Montenegro",
-        "North Macedonia",
-        "Romania",
-        "Kosovo",
-        "Albania"
-    ],
-    "Seychelles": [
-        "Comoros",
-        "Madagascar",
-        "Mauritius",
-        "Tanzania",
-        "French Southern and Antarctic Lands",
-        "France"
-    ],
-    "Sierra Leone": [
-        "Guinea",
-        "Liberia"
-    ],
-    "Singapore": [
-        "Indonesia",
-        "Malaysia"
-    ],
-    "Sint Maarten": [
-        "Netherlands",
-        "Saint Barth\u00e9lemy",
-        "France",
-        "France"
-    ],
-    "Slovakia": [
-        "Austria",
-        "Czech Republic",
-        "Hungary",
-        "Poland",
-        "Ukraine"
-    ],
-    "Slovenia": [
-        "Austria",
-        "Croatia",
-        "Italy",
-        "Hungary"
-    ],
-    "Solomon Islands": [
-        "Fiji",
-        "Papua New Guinea",
-        "Vanuatu",
-        "Coral Sea Islands",
-        "Australia",
-        "New Caledonia",
-        "France"
-    ],
-    "Somalia": [
-        "Djibouti",
-        "Ethiopia",
-        "Kenya",
-        "Yemen"
-    ],
-    "Somaliland": [
-        "Djibouti",
-        "Ethiopia",
-        "Somalia",
-        "Yemen"
-    ],
-    "South Africa": [
-        "Botswana",
-        "Eswatini (Swaziland)",
-        "Lesotho",
-        "Mozambique",
-        "Namibia",
-        "Zimbabwe"
-    ],
-    "South Georgia and the South Sandwich Islands": [],
-    "South Ossetia": [
-        "Georgia",
-        "Russia"
-    ],
-    "South Sudan": [
-        "Central African Republic",
-        "Democratic Republic of the Congo",
-        "Ethiopia",
-        "Kenya",
-        "Sudan",
-        "Uganda"
-    ],
-    "Spain": [
-        "Algeria",
-        "Andorra",
-        "France",
-        "Italy",
-        "Morocco",
-        "Portugal",
-        "Gibraltar",
-        "United Kingdom",
-        "Western Sahara"
-    ],
-    "Sri Lanka": [
-        "India",
-        "Maldives"
-    ],
-    "Sudan": [
-        "Central African Republic",
-        "Chad",
-        "Egypt",
-        "Eritrea",
-        "Ethiopia",
-        "Libya",
-        "Saudi Arabia",
-        "South Sudan"
-    ],
-    "Suriname": [
-        "Brazil",
-        "France",
-        "Guyana"
-    ],
-    "Svalbard": [
-        "Norway",
-        "Russia",
-        "Greenland",
-        "Denmark"
-    ],
-    "Sweden": [
-        "Denmark",
-        "Estonia",
-        "Finland",
-        "Germany",
-        "Latvia",
-        "Lithuania",
-        "Norway",
-        "Poland",
-        "Russia"
-    ],
-    "Switzerland": [
-        "Austria",
-        "France",
-        "Italy",
-        "Liechtenstein",
-        "Germany"
-    ],
-    "Syria": [
-        "Cyprus",
-        "Iraq",
-        "Israel",
-        "Jordan",
-        "Lebanon",
-        "Turkey",
-        "Northern Cyprus"
-    ],
-    "Taiwan": [
-        "Brunei",
-        "China",
-        "Indonesia",
-        "Japan",
-        "Malaysia",
-        "Philippines",
-        "Vietnam"
-    ],
-    "Tajikistan": [
-        "Afghanistan",
-        "China",
-        "Kyrgyzstan",
-        "Uzbekistan"
-    ],
-    "Tanzania": [
-        "Burundi",
-        "Comoros",
-        "Democratic Republic of the Congo",
-        "Kenya",
-        "Malawi",
-        "Mozambique",
-        "Rwanda",
-        "Seychelles",
-        "Uganda",
-        "Zambia"
-    ],
-    "Thailand": [
-        "Myanmar",
-        "Cambodia",
-        "India",
-        "Indonesia",
-        "Laos",
-        "Malaysia",
-        "Vietnam"
-    ],
-    "Togo": [
-        "Benin",
-        "Burkina Faso",
-        "Ghana"
-    ],
-    "Tokelau": [
-        "Kiribati",
-        "Samoa",
-        "American Samoa",
-        "United States",
-        "Cook Islands",
-        "New Zealand",
-        "Wallis and Futuna",
-        "France"
-    ],
-    "Tonga": [
-        "Fiji",
-        "Samoa",
-        "American Samoa",
-        "United States",
-        "Niue",
-        "New Zealand",
-        "Wallis and Futuna",
-        "France"
-    ],
-    "Transnistria": [
-        "Moldova",
-        "Ukraine"
-    ],
-    "Trinidad and Tobago": [
-        "Barbados",
-        "Grenada",
-        "Guyana",
-        "Saint Vincent and the Grenadines",
-        "Venezuela"
-    ],
-    "Tunisia": [
-        "Algeria",
-        "Italy",
-        "Libya",
-        "Malta"
-    ],
-    "Turkey": [
-        "Armenia",
-        "Azerbaijan",
-        "Bulgaria",
-        "Cyprus",
-        "Egypt",
-        "Georgia",
-        "Greece",
-        "Iran",
-        "Iraq",
-        "Russia",
-        "Syria",
-        "Ukraine",
-        "Libya",
-        "Northern Cyprus"
-    ],
-    "Turkmenistan": [
-        "Afghanistan",
-        "Azerbaijan",
-        "Iran",
-        "Kazakhstan",
-        "Uzbekistan"
-    ],
-    "Turks and Caicos Islands": [
-        "Bahamas",
-        "Dominican Republic",
-        "Haiti"
-    ],
-    "Tuvalu": [
-        "Fiji",
-        "Kiribati",
-        "Wallis and Futuna",
-        "France"
-    ],
-    "Uganda": [
-        "Democratic Republic of the Congo",
-        "Kenya",
-        "Rwanda",
-        "South Sudan",
-        "Tanzania"
-    ],
-    "Ukraine": [
-        "Belarus",
-        "Hungary",
-        "Moldova",
-        "Poland",
-        "Romania",
-        "Russia",
-        "Slovakia",
-        "Turkey"
-    ],
-    "United Arab Emirates": [
-        "Iran",
-        "Oman",
-        "Qatar",
-        "Saudi Arabia"
-    ],
-    "United Kingdom": [
-        "Belgium",
-        "Denmark",
-        "France",
-        "Germany",
-        "Ireland",
-        "Netherlands",
-        "Norway",
-        "Faroe Islands",
-        "Denmark",
-        "Guernsey",
-        "United Kingdom",
-        "Isle of Man",
-        "United Kingdom"
-    ],
-    "United States": [
-        "Bahamas",
-        "Canada",
-        "Cuba",
-        "Mexico",
-        "Russia",
-        "Midway Atoll",
-        "United States"
-    ],
-    "United States Virgin Islands": [
-        "Netherlands",
-        "Venezuela",
-        "Anguilla",
-        "United Kingdom",
-        "British Virgin Islands",
-        "United Kingdom",
-        "Puerto Rico",
-        "United States"
-    ],
-    "Uruguay": [
-        "Argentina",
-        "Brazil"
-    ],
-    "Uzbekistan": [
-        "Afghanistan",
-        "Kazakhstan",
-        "Kyrgyzstan",
-        "Tajikistan",
-        "Turkmenistan"
-    ],
-    "Vanuatu": [
-        "Fiji",
-        "Solomon Islands",
-        "New Caledonia",
-        "France"
-    ],
-    "Vatican City": [
-        "Italy"
-    ],
-    "Venezuela": [
-        "Barbados",
-        "Brazil",
-        "Colombia",
-        "Dominica",
-        "Dominican Republic",
-        "France",
-        "Grenada",
-        "Guyana",
-        "Netherlands",
-        "Saint Kitts and Nevis",
-        "Saint Lucia",
-        "Saint Vincent and the Grenadines",
-        "Trinidad and Tobago",
-        "Aruba",
-        "Netherlands",
-        "Cura\u00e7ao",
-        "Netherlands",
-        "Montserrat",
-        "United Kingdom",
-        "Puerto Rico",
-        "United States",
-        "United States Virgin Islands",
-        "United States"
-    ],
-    "Vietnam": [
-        "Brunei",
-        "Cambodia",
-        "China",
-        "Indonesia",
-        "Laos",
-        "Malaysia",
-        "Philippines",
-        "Taiwan",
-        "Thailand"
-    ],
-    "Wake Island": [
-        "Marshall Islands"
-    ],
-    "Wallis and Futuna": [
-        "Fiji",
-        "Samoa",
-        "Tonga",
-        "Tuvalu",
-        "Tokelau",
-        "New Zealand"
-    ],
-    "Western Sahara": [
-        "Algeria",
-        "Mauritania",
-        "Morocco",
-        "Spain"
-    ],
-    "Yemen": [
-        "Djibouti",
-        "Eritrea",
-        "Oman",
-        "Saudi Arabia",
-        "Somalia"
-    ],
-    "Zambia": [
-        "Angola",
-        "Botswana",
-        "Democratic Republic of the Congo",
-        "Malawi",
-        "Mozambique",
-        "Namibia",
-        "Tanzania",
-        "Zimbabwe"
-    ],
-    "Zimbabwe": [
-        "Botswana",
-        "Mozambique",
-        "South Africa",
-        "Zambia"
-    ]
+    "Abkhazia": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Georgia",
+            "Russia",
+            "Turkey"
+        ]
+    },
+    "": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Netherlands",
+            "Anguilla",
+            "United Kingdom",
+            "Saint Barth\u00e9lemy",
+            "France",
+            "Sint Maarten",
+            "Netherlands"
+        ]
+    },
+    "Afghanistan": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "China",
+            "Iran",
+            "Pakistan",
+            "Tajikistan",
+            "Turkmenistan",
+            "Uzbekistan"
+        ]
+    },
+    "Albania": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Greece",
+            "Italy",
+            "Montenegro",
+            "North Macedonia",
+            "Kosovo",
+            "Serbia"
+        ]
+    },
+    "Algeria": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Italy",
+            "Libya",
+            "Mali",
+            "Mauritania",
+            "Morocco",
+            "Niger",
+            "Spain",
+            "Tunisia",
+            "Western Sahara"
+        ]
+    },
+    "American Samoa": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Samoa",
+            "Tonga",
+            "Cook Islands",
+            "New Zealand",
+            "Niue",
+            "New Zealand",
+            "Tokelau",
+            "New Zealand"
+        ]
+    },
+    "Andorra": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "France",
+            "Spain"
+        ]
+    },
+    "Angola": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Namibia",
+            "Zambia"
+        ]
+    },
+    "Anguilla": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Antigua and Barbuda",
+            "British Virgin Islands",
+            "United Kingdom",
+            "Netherlands",
+            "Saint Barth\u00e9lemy",
+            "France",
+            "",
+            "France",
+            "United States"
+        ]
+    },
+    "Antigua and Barbuda": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "France",
+            "Saint Kitts and Nevis",
+            "Anguilla",
+            "United Kingdom",
+            "Montserrat",
+            "United Kingdom",
+            "",
+            "Saint Barth\u00e9lemy",
+            "France"
+        ]
+    },
+    "Argentina": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Bolivia",
+            "Brazil",
+            "Chile",
+            "Paraguay",
+            "Uruguay",
+            "Falkland Islands",
+            "United Kingdom"
+        ]
+    },
+    "Armenia": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Azerbaijan",
+            "Georgia",
+            "Iran",
+            "Turkey"
+        ]
+    },
+    "Republic of Artsakh": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Armenia",
+            "Azerbaijan"
+        ]
+    },
+    "Aruba": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Cura\u00e7ao",
+            "Netherlands",
+            "Dominican Republic",
+            "Venezuela"
+        ]
+    },
+    "Australia": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "East Timor",
+            "Indonesia",
+            "New Zealand",
+            "Papua New Guinea",
+            "Solomon Islands",
+            "France",
+            "New Caledonia",
+            "France"
+        ]
+    },
+    "Austria": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Czech Republic",
+            "Germany",
+            "Hungary",
+            "Italy",
+            "Liechtenstein",
+            "Slovakia",
+            "Slovenia",
+            "Switzerland"
+        ]
+    },
+    "Azerbaijan": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Armenia",
+            "Georgia",
+            "Iran",
+            "Kazakhstan",
+            "Russia",
+            "Turkey",
+            "Turkmenistan"
+        ]
+    },
+    "Bahamas": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Cuba",
+            "Haiti",
+            "United States",
+            "Turks and Caicos Islands",
+            "United Kingdom"
+        ]
+    },
+    "Bahrain": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Iran",
+            "Qatar",
+            "Saudi Arabia"
+        ]
+    },
+    "Bangladesh": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Myanmar",
+            "India"
+        ]
+    },
+    "Barbados": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "France",
+            "Guyana",
+            "Saint Lucia",
+            "Saint Vincent and the Grenadines",
+            "Trinidad and Tobago",
+            "Venezuela"
+        ]
+    },
+    "Belarus": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Latvia",
+            "Lithuania",
+            "Poland",
+            "Russia",
+            "Ukraine"
+        ]
+    },
+    "Belgium": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "France",
+            "Germany",
+            "Luxembourg",
+            "Netherlands",
+            "United Kingdom"
+        ]
+    },
+    "Belize": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Guatemala",
+            "Honduras",
+            "Mexico"
+        ]
+    },
+    "Benin": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Burkina Faso",
+            "Niger",
+            "Nigeria",
+            "Togo"
+        ]
+    },
+    "Bermuda": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": []
+    },
+    "Bhutan": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "China",
+            "India"
+        ]
+    },
+    "Bolivia": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Argentina",
+            "Brazil",
+            "Chile",
+            "Paraguay",
+            "Peru"
+        ]
+    },
+    "Bosnia and Herzegovina": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Croatia",
+            "Montenegro",
+            "Serbia"
+        ]
+    },
+    "Botswana": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Namibia",
+            "South Africa",
+            "Zambia",
+            "Zimbabwe"
+        ]
+    },
+    "Brazil": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Argentina",
+            "Bolivia",
+            "Colombia",
+            "France",
+            "Guyana",
+            "Paraguay",
+            "Peru",
+            "Suriname",
+            "Uruguay",
+            "Venezuela"
+        ]
+    },
+    "British Virgin Islands": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Anguilla",
+            "United Kingdom",
+            "Puerto Rico",
+            "United States",
+            "United States"
+        ]
+    },
+    "Brunei": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "China",
+            "Malaysia",
+            "Philippines",
+            "Taiwan",
+            "Vietnam"
+        ]
+    },
+    "Bulgaria": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Greece",
+            "North Macedonia",
+            "Romania",
+            "Serbia",
+            "Turkey"
+        ]
+    },
+    "Burkina Faso": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Benin",
+            "Ghana",
+            "Mali",
+            "Niger",
+            "Togo"
+        ]
+    },
+    "Burundi": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Rwanda",
+            "Tanzania"
+        ]
+    },
+    "Cambodia": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Laos",
+            "Thailand",
+            "Vietnam"
+        ]
+    },
+    "Cameroon": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Central African Republic",
+            "Chad",
+            "Equatorial Guinea",
+            "Gabon",
+            "Nigeria"
+        ]
+    },
+    "Canada": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "United States",
+            "Greenland",
+            "Denmark",
+            "Saint Pierre and Miquelon",
+            "France"
+        ]
+    },
+    "Cape Verde": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Mauritania",
+            "Senegal"
+        ]
+    },
+    "Cayman Islands": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Cuba",
+            "Honduras",
+            "Jamaica"
+        ]
+    },
+    "Central African Republic": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Cameroon",
+            "Chad",
+            "South Sudan",
+            "Sudan"
+        ]
+    },
+    "Chad": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Cameroon",
+            "Central African Republic",
+            "Libya",
+            "Niger",
+            "Nigeria",
+            "Sudan"
+        ]
+    },
+    "Chile": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Argentina",
+            "Bolivia",
+            "Peru"
+        ]
+    },
+    "China": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Afghanistan",
+            "Bhutan",
+            "Brunei",
+            "India",
+            "Indonesia",
+            "Japan",
+            "Kazakhstan",
+            "North Korea",
+            "South Korea",
+            "Kyrgyzstan",
+            "Laos",
+            "Malaysia",
+            "Mongolia",
+            "Myanmar",
+            "Nepal",
+            "Pakistan",
+            "Philippines",
+            "Russia",
+            "Tajikistan",
+            "Vietnam",
+            "Taiwan"
+        ]
+    },
+    "Christmas Island": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Indonesia"
+        ]
+    },
+    "Cocos (Keeling) Islands": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": []
+    },
+    "Colombia": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Brazil",
+            "Costa Rica",
+            "Dominican Republic",
+            "Ecuador",
+            "Haiti",
+            "Jamaica",
+            "Nicaragua",
+            "Panama",
+            "Peru",
+            "Venezuela"
+        ]
+    },
+    "Comoros": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "France",
+            "Madagascar",
+            "Mozambique",
+            "Seychelles",
+            "Tanzania",
+            "France"
+        ]
+    },
+    "Cook Islands": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Kiribati",
+            "American Samoa",
+            "United States",
+            "French Polynesia",
+            "France",
+            "Niue",
+            "New Zealand",
+            "Tokelau",
+            "New Zealand"
+        ]
+    },
+    "Costa Rica": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Colombia",
+            "Ecuador",
+            "Nicaragua",
+            "Panama"
+        ]
+    },
+    "Croatia": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Bosnia and Herzegovina",
+            "Hungary",
+            "Italy",
+            "Montenegro",
+            "Serbia",
+            "Slovenia"
+        ]
+    },
+    "Cuba": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Bahamas",
+            "Haiti",
+            "Honduras",
+            "Jamaica",
+            "Mexico",
+            "United States",
+            "Cayman Islands",
+            "United Kingdom",
+            "United States"
+        ]
+    },
+    "Cura\u00e7ao": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Dominican Republic",
+            "Netherlands",
+            "Venezuela",
+            "Aruba",
+            "Netherlands"
+        ]
+    },
+    "Cyprus": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Northern Cyprus",
+            "Egypt",
+            "Greece",
+            "Israel",
+            "Lebanon",
+            "Syria",
+            "Turkey",
+            "",
+            "United Kingdom",
+            ""
+        ]
+    },
+    "Northern Cyprus": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Cyprus",
+            "Syria",
+            "Turkey",
+            "",
+            "United Kingdom",
+            ""
+        ]
+    },
+    "Czech Republic": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Austria",
+            "Germany",
+            "Poland",
+            "Slovakia"
+        ]
+    },
+    "Denmark": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Germany",
+            "Norway",
+            "Poland",
+            "Sweden",
+            "United Kingdom"
+        ]
+    },
+    "Djibouti": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Eritrea",
+            "Ethiopia",
+            "Somalia",
+            "Yemen"
+        ]
+    },
+    "Dominica": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "France",
+            "Venezuela"
+        ]
+    },
+    "Dominican Republic": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Colombia",
+            "Haiti",
+            "Venezuela",
+            "Aruba",
+            "Netherlands",
+            "Cura\u00e7ao",
+            "Netherlands",
+            "Puerto Rico",
+            "United States",
+            "Turks and Caicos Islands",
+            "United Kingdom"
+        ]
+    },
+    "East Timor": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Australia",
+            "Indonesia",
+            "Australia"
+        ]
+    },
+    "Ecuador": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Colombia",
+            "Costa Rica",
+            "Peru"
+        ]
+    },
+    "Egypt": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Cyprus",
+            "Greece",
+            "Israel",
+            "Jordan",
+            "Libya",
+            "Saudi Arabia",
+            "Sudan",
+            "Turkey"
+        ]
+    },
+    "El Salvador": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Guatemala",
+            "Honduras",
+            "Nicaragua"
+        ]
+    },
+    "Equatorial Guinea": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Cameroon",
+            "Gabon",
+            "Nigeria",
+            "S\u00e3o Tom\u00e9 and Pr\u00edncipe"
+        ]
+    },
+    "Eritrea": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Djibouti",
+            "Saudi Arabia",
+            "Sudan",
+            "Ethiopia",
+            "Yemen"
+        ]
+    },
+    "Estonia": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Finland",
+            "Latvia",
+            "Russia",
+            "Sweden"
+        ]
+    },
+    "Ethiopia": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Djibouti",
+            "Eritrea",
+            "Kenya",
+            "Somalia",
+            "South Sudan",
+            "Sudan"
+        ]
+    },
+    "Falkland Islands": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Argentina"
+        ]
+    },
+    "Faroe Islands": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Iceland",
+            "Norway",
+            "United Kingdom"
+        ]
+    },
+    "Fiji": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "New Zealand",
+            "Solomon Islands",
+            "Tonga",
+            "Tuvalu",
+            "Vanuatu",
+            "New Caledonia",
+            "France",
+            "Wallis and Futuna",
+            "France"
+        ]
+    },
+    "Finland": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Estonia",
+            "Norway",
+            "Russia",
+            "Sweden"
+        ]
+    },
+    "France": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Andorra",
+            "Antigua and Barbuda",
+            "Barbados",
+            "Belgium",
+            "Brazil",
+            "Canada",
+            "Comoros",
+            "Dominica",
+            "Fiji",
+            "Germany",
+            "Italy",
+            "Kiribati",
+            "Luxembourg",
+            "Madagascar",
+            "Mauritius",
+            "Monaco",
+            "Mozambique",
+            "Netherlands",
+            "Saint Kitts and Nevis",
+            "Saint Lucia",
+            "Samoa",
+            "Seychelles",
+            "Solomon Islands",
+            "Spain",
+            "Suriname",
+            "Switzerland",
+            "Tonga",
+            "Tuvalu",
+            "United Kingdom",
+            "Vanuatu",
+            "Venezuela",
+            "Anguilla",
+            "United Kingdom",
+            "Cook Islands",
+            "New Zealand",
+            "Australia",
+            "Guernsey",
+            "United Kingdom",
+            "",
+            "Australia",
+            "Jersey",
+            "United Kingdom",
+            "Montserrat",
+            "United Kingdom",
+            "Sint Maarten",
+            "Netherlands",
+            "Norfolk Island",
+            "Australia",
+            "Pitcairn Islands",
+            "United Kingdom",
+            "Tokelau",
+            "New Zealand"
+        ]
+    },
+    "French Polynesia": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Kiribati",
+            "Cook Islands",
+            "New Zealand",
+            "Pitcairn Islands",
+            "United Kingdom"
+        ]
+    },
+    "Gabon": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Cameroon",
+            "Equatorial Guinea",
+            "S\u00e3o Tom\u00e9 and Pr\u00edncipe"
+        ]
+    },
+    "Georgia": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Armenia",
+            "Azerbaijan",
+            "Russia",
+            "Turkey"
+        ]
+    },
+    "Germany": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Austria",
+            "Belgium",
+            "Czech Republic",
+            "Denmark",
+            "France",
+            "Luxembourg",
+            "Netherlands",
+            "Poland",
+            "Sweden",
+            "Switzerland",
+            "United Kingdom"
+        ]
+    },
+    "Ghana": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Burkina Faso",
+            "Togo"
+        ]
+    },
+    "Gibraltar": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Spain"
+        ]
+    },
+    "Greece": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Albania",
+            "Bulgaria",
+            "Cyprus",
+            "Egypt",
+            "Italy",
+            "Libya",
+            "North Macedonia",
+            "Turkey"
+        ]
+    },
+    "Greenland": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Canada",
+            "Iceland",
+            "Norway",
+            "Norway"
+        ]
+    },
+    "Grenada": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Saint Vincent and the Grenadines",
+            "Trinidad and Tobago",
+            "Venezuela"
+        ]
+    },
+    "Guam": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Northern Mariana Islands",
+            "United States"
+        ]
+    },
+    "Guatemala": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Belize",
+            "El Salvador",
+            "Honduras",
+            "Mexico"
+        ]
+    },
+    "Guernsey": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "France",
+            "United Kingdom",
+            "Jersey",
+            "United Kingdom"
+        ]
+    },
+    "Guinea": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Guinea-Bissau",
+            "Liberia",
+            "Mali",
+            "Senegal",
+            "Sierra Leone"
+        ]
+    },
+    "Guinea-Bissau": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Guinea",
+            "Senegal"
+        ]
+    },
+    "Guyana": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Barbados",
+            "Brazil",
+            "Suriname",
+            "Trinidad and Tobago",
+            "Venezuela"
+        ]
+    },
+    "Haiti": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Bahamas",
+            "Colombia",
+            "Cuba",
+            "Dominican Republic",
+            "Jamaica",
+            "United States",
+            "Turks and Caicos Islands",
+            "United Kingdom"
+        ]
+    },
+    "Honduras": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Belize",
+            "Cuba",
+            "El Salvador",
+            "Guatemala",
+            "Jamaica",
+            "Mexico",
+            "Nicaragua",
+            "Cayman Islands",
+            "United Kingdom"
+        ]
+    },
+    "Hong Kong": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "China"
+        ]
+    },
+    "Hungary": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Austria",
+            "Croatia",
+            "Romania",
+            "Serbia",
+            "Slovakia",
+            "Slovenia",
+            "Ukraine"
+        ]
+    },
+    "Iceland": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Faroe Islands",
+            "Denmark",
+            "Greenland",
+            "Denmark",
+            "Norway"
+        ]
+    },
+    "India": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Bangladesh",
+            "Bhutan",
+            "Myanmar",
+            "China",
+            "Indonesia",
+            "Maldives",
+            "Nepal",
+            "Pakistan",
+            "Sri Lanka",
+            "Thailand"
+        ]
+    },
+    "Indonesia": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Australia",
+            "China",
+            "East Timor",
+            "India",
+            "Malaysia",
+            "Palau",
+            "Papua New Guinea",
+            "Philippines",
+            "Singapore",
+            "Taiwan",
+            "Thailand",
+            "Vietnam",
+            "Australia",
+            "Christmas Island",
+            "Australia"
+        ]
+    },
+    "Iran": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Afghanistan",
+            "Armenia",
+            "Azerbaijan",
+            "Bahrain",
+            "Iraq",
+            "Kuwait",
+            "Oman",
+            "Pakistan",
+            "Qatar",
+            "Saudi Arabia",
+            "Turkey",
+            "Turkmenistan",
+            "United Arab Emirates"
+        ]
+    },
+    "Iraq": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Iran",
+            "Jordan",
+            "Kuwait",
+            "Saudi Arabia",
+            "Syria",
+            "Turkey"
+        ]
+    },
+    "Ireland": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "United Kingdom"
+        ]
+    },
+    "Isle of Man": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "United Kingdom"
+        ]
+    },
+    "Israel": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Cyprus",
+            "Egypt",
+            "Jordan",
+            "Lebanon",
+            "Syria"
+        ]
+    },
+    "Italy": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Albania",
+            "Algeria",
+            "Austria",
+            "Croatia",
+            "France",
+            "Greece",
+            "Libya",
+            "Malta",
+            "Montenegro",
+            "San Marino",
+            "Slovenia",
+            "Spain",
+            "Switzerland",
+            "Tunisia",
+            "Vatican City"
+        ]
+    },
+    "Jamaica": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Colombia",
+            "Cuba",
+            "Haiti",
+            "Honduras",
+            "Nicaragua",
+            "Cayman Islands",
+            "United Kingdom",
+            "United States"
+        ]
+    },
+    "Japan": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "China",
+            "South Korea",
+            "Palau",
+            "Philippines",
+            "Russia",
+            "Northern Mariana Islands",
+            "United States",
+            "Taiwan"
+        ]
+    },
+    "Jersey": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "France",
+            "Guernsey",
+            "United Kingdom"
+        ]
+    },
+    "Jordan": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Egypt",
+            "Iraq",
+            "Israel",
+            "Saudi Arabia",
+            "Syria"
+        ]
+    },
+    "Kazakhstan": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Azerbaijan",
+            "China",
+            "Kyrgyzstan",
+            "Russia",
+            "Turkmenistan",
+            "Uzbekistan"
+        ]
+    },
+    "Kenya": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Ethiopia",
+            "Somalia",
+            "South Sudan",
+            "Tanzania",
+            "Uganda"
+        ]
+    },
+    "Kiribati": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Marshall Islands",
+            "Nauru",
+            "Tuvalu",
+            "Cook Islands",
+            "New Zealand",
+            "French Polynesia",
+            "France",
+            "",
+            "United States",
+            "United States",
+            "United States",
+            "United States",
+            "Tokelau",
+            "New Zealand"
+        ]
+    },
+    "North Korea": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "China",
+            "South Korea",
+            "Russia"
+        ]
+    },
+    "South Korea": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "China",
+            "Japan",
+            "North Korea"
+        ]
+    },
+    "Kosovo": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Albania",
+            "Montenegro",
+            "North Macedonia",
+            "Serbia"
+        ]
+    },
+    "Kuwait": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Iran",
+            "Iraq",
+            "Saudi Arabia"
+        ]
+    },
+    "Kyrgyzstan": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "China",
+            "Kazakhstan",
+            "Tajikistan",
+            "Uzbekistan"
+        ]
+    },
+    "Laos": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Myanmar",
+            "Cambodia",
+            "China",
+            "Thailand",
+            "Vietnam"
+        ]
+    },
+    "Latvia": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Belarus",
+            "Estonia",
+            "Lithuania",
+            "Russia",
+            "Sweden"
+        ]
+    },
+    "Lebanon": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Cyprus",
+            "Israel",
+            "Syria"
+        ]
+    },
+    "Lesotho": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "South Africa"
+        ]
+    },
+    "Liberia": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Guinea",
+            "Sierra Leone"
+        ]
+    },
+    "Libya": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Algeria",
+            "Chad",
+            "Egypt",
+            "Greece",
+            "Italy",
+            "Malta",
+            "Niger",
+            "Sudan",
+            "Tunisia",
+            "Turkey"
+        ]
+    },
+    "Liechtenstein": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Austria",
+            "Switzerland"
+        ]
+    },
+    "Lithuania": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Belarus",
+            "Latvia",
+            "Poland",
+            "Russia",
+            "Sweden"
+        ]
+    },
+    "Luxembourg": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Belgium",
+            "France",
+            "Germany"
+        ]
+    },
+    "Macau": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "China"
+        ]
+    },
+    "Madagascar": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Comoros",
+            "France",
+            "Mauritius",
+            "Mozambique",
+            "Seychelles",
+            "France"
+        ]
+    },
+    "Malawi": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Mozambique",
+            "Tanzania",
+            "Zambia"
+        ]
+    },
+    "Malaysia": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Brunei",
+            "China",
+            "Indonesia",
+            "Philippines",
+            "Singapore",
+            "Thailand",
+            "Vietnam",
+            "Taiwan"
+        ]
+    },
+    "Maldives": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "India",
+            "Sri Lanka",
+            "United Kingdom"
+        ]
+    },
+    "Mali": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Algeria",
+            "Burkina Faso",
+            "Guinea",
+            "Mauritania",
+            "Niger",
+            "Senegal"
+        ]
+    },
+    "Malta": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Italy",
+            "Libya",
+            "Tunisia"
+        ]
+    },
+    "Marshall Islands": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Kiribati",
+            "Nauru",
+            "United States"
+        ]
+    },
+    "Mauritania": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Algeria",
+            "Cape Verde",
+            "Mali",
+            "Senegal",
+            "Western Sahara",
+            "Western Sahara",
+            "Morocco"
+        ]
+    },
+    "Mauritius": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "France",
+            "Madagascar",
+            "Seychelles",
+            "France"
+        ]
+    },
+    "Mexico": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Belize",
+            "Cuba",
+            "Guatemala",
+            "Honduras",
+            "United States"
+        ]
+    },
+    "Moldova": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Romania",
+            "Ukraine"
+        ]
+    },
+    "Monaco": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "France"
+        ]
+    },
+    "Mongolia": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "China",
+            "Russia"
+        ]
+    },
+    "Montenegro": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Albania",
+            "Bosnia and Herzegovina",
+            "Croatia",
+            "Italy",
+            "Serbia",
+            "Kosovo"
+        ]
+    },
+    "Montserrat": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Antigua and Barbuda",
+            "France",
+            "Saint Kitts and Nevis",
+            "Venezuela"
+        ]
+    },
+    "Morocco": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Algeria",
+            "Portugal",
+            "Spain",
+            "Western Sahara"
+        ]
+    },
+    "Mozambique": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Comoros",
+            "Madagascar",
+            "Malawi",
+            "South Africa",
+            "Tanzania",
+            "Zambia",
+            "Zimbabwe",
+            "France"
+        ]
+    },
+    "Myanmar": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Bangladesh",
+            "China",
+            "India",
+            "Laos",
+            "Thailand"
+        ]
+    },
+    "Namibia": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Angola",
+            "Botswana",
+            "South Africa",
+            "Zambia"
+        ]
+    },
+    "Nauru": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Kiribati",
+            "Marshall Islands"
+        ]
+    },
+    "Nepal": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "India",
+            "China"
+        ]
+    },
+    "Netherlands": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Belgium",
+            "Germany",
+            "Saint Kitts and Nevis",
+            "United Kingdom",
+            "Venezuela",
+            "Anguilla",
+            "United Kingdom",
+            "Cura\u00e7ao",
+            "Netherlands",
+            "Saint Barth\u00e9lemy",
+            "France",
+            "France",
+            "Sint Maarten",
+            "Netherlands",
+            "United States"
+        ]
+    },
+    "New Caledonia": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Fiji",
+            "Solomon Islands",
+            "Vanuatu",
+            "Australia",
+            "Norfolk Island",
+            "Australia"
+        ]
+    },
+    "New Zealand": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Australia",
+            "Fiji",
+            "Norfolk Island",
+            "Australia"
+        ]
+    },
+    "Nicaragua": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Colombia",
+            "Costa Rica",
+            "El Salvador",
+            "Honduras",
+            "Jamaica",
+            "Panama"
+        ]
+    },
+    "Niger": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Algeria",
+            "Benin",
+            "Burkina Faso",
+            "Chad",
+            "Libya",
+            "Mali",
+            "Nigeria"
+        ]
+    },
+    "Nigeria": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Benin",
+            "Cameroon",
+            "Chad",
+            "Equatorial Guinea",
+            "Niger",
+            "S\u00e3o Tom\u00e9 and Pr\u00edncipe"
+        ]
+    },
+    "Niue": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Tonga",
+            "American Samoa",
+            "United States",
+            "Cook Islands",
+            "New Zealand"
+        ]
+    },
+    "Norfolk Island": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "New Zealand",
+            "New Caledonia",
+            "France"
+        ]
+    },
+    "North Macedonia": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Albania",
+            "Bulgaria",
+            "Greece",
+            "Serbia",
+            "Kosovo"
+        ]
+    },
+    "Northern Mariana Islands": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Japan",
+            "Guam",
+            "United States"
+        ]
+    },
+    "Norway": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Denmark",
+            "Finland",
+            "Russia",
+            "Sweden",
+            "United Kingdom",
+            "Faroe Islands",
+            "Denmark",
+            "Norway"
+        ]
+    },
+    "Oman": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Iran",
+            "Pakistan",
+            "Saudi Arabia",
+            "United Arab Emirates",
+            "Yemen"
+        ]
+    },
+    "Pakistan": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Afghanistan",
+            "China",
+            "India",
+            "Iran",
+            "Oman"
+        ]
+    },
+    "Palau": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Indonesia",
+            "Japan",
+            "Philippines"
+        ]
+    },
+    "Panama": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Colombia",
+            "Costa Rica",
+            "Nicaragua"
+        ]
+    },
+    "Papua New Guinea": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Australia",
+            "Indonesia",
+            "Solomon Islands",
+            "Australia"
+        ]
+    },
+    "Paraguay": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Argentina",
+            "Bolivia",
+            "Brazil"
+        ]
+    },
+    "Peru": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Bolivia",
+            "Brazil",
+            "Chile",
+            "Colombia",
+            "Ecuador"
+        ]
+    },
+    "Philippines": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Brunei",
+            "China",
+            "Indonesia",
+            "Japan",
+            "Malaysia",
+            "Palau",
+            "Vietnam",
+            "Taiwan"
+        ]
+    },
+    "Pitcairn Islands": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "French Polynesia",
+            "France"
+        ]
+    },
+    "Poland": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Belarus",
+            "Czech Republic",
+            "Denmark",
+            "Germany",
+            "Lithuania",
+            "Russia",
+            "Slovakia",
+            "Sweden",
+            "Ukraine"
+        ]
+    },
+    "Portugal": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Morocco",
+            "Spain"
+        ]
+    },
+    "Puerto Rico": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Dominican Republic",
+            "Venezuela",
+            "British Virgin Islands",
+            "United Kingdom",
+            "United States"
+        ]
+    },
+    "Qatar": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Bahrain",
+            "Iran",
+            "Saudi Arabia",
+            "United Arab Emirates"
+        ]
+    },
+    "Romania": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Bulgaria",
+            "Hungary",
+            "Moldova",
+            "Russia",
+            "Serbia",
+            "Ukraine"
+        ]
+    },
+    "Russia": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Azerbaijan",
+            "Belarus",
+            "China",
+            "Estonia",
+            "Finland",
+            "Georgia",
+            "Japan",
+            "Kazakhstan",
+            "North Korea",
+            "Latvia",
+            "Lithuania",
+            "Mongolia",
+            "Norway",
+            "Poland",
+            "Romania",
+            "Sweden",
+            "Turkey",
+            "Ukraine",
+            "United States",
+            "Norway"
+        ]
+    },
+    "Rwanda": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Burundi",
+            "Tanzania",
+            "Uganda"
+        ]
+    },
+    "Saint Barth\u00e9lemy": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Antigua and Barbuda",
+            "Netherlands",
+            "Saint Kitts and Nevis",
+            "Anguilla",
+            "United Kingdom",
+            "",
+            "France",
+            "Sint Maarten",
+            "Netherlands"
+        ]
+    },
+    "Saint Kitts and Nevis": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Antigua and Barbuda",
+            "Netherlands",
+            "Venezuela",
+            "Montserrat",
+            "United Kingdom",
+            "Saint Barth\u00e9lemy",
+            "France"
+        ]
+    },
+    "Saint Lucia": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Barbados",
+            "France",
+            "Saint Vincent and the Grenadines",
+            "Venezuela"
+        ]
+    },
+    "Saint Pierre and Miquelon": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Canada"
+        ]
+    },
+    "Saint Vincent and the Grenadines": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Barbados",
+            "Grenada",
+            "Saint Lucia",
+            "Trinidad and Tobago",
+            "Venezuela"
+        ]
+    },
+    "Samoa": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Tonga",
+            "American Samoa",
+            "United States",
+            "Tokelau",
+            "New Zealand",
+            "Wallis and Futuna",
+            "France"
+        ]
+    },
+    "San Marino": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Italy"
+        ]
+    },
+    "S\u00e3o Tom\u00e9 and Pr\u00edncipe": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Equatorial Guinea",
+            "Gabon",
+            "Nigeria"
+        ]
+    },
+    "Saudi Arabia": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Bahrain",
+            "Egypt",
+            "Eritrea",
+            "Iran",
+            "Iraq",
+            "Jordan",
+            "Kuwait",
+            "Oman",
+            "Qatar",
+            "Sudan",
+            "United Arab Emirates",
+            "Yemen"
+        ]
+    },
+    "Senegal": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Cape Verde",
+            "Guinea",
+            "Guinea-Bissau",
+            "Mali",
+            "Mauritania"
+        ]
+    },
+    "Serbia": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Bosnia and Herzegovina",
+            "Bulgaria",
+            "Croatia",
+            "Hungary",
+            "Montenegro",
+            "North Macedonia",
+            "Romania",
+            "Kosovo",
+            "Albania"
+        ]
+    },
+    "Seychelles": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Comoros",
+            "Madagascar",
+            "Mauritius",
+            "Tanzania",
+            "France"
+        ]
+    },
+    "Sierra Leone": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Guinea",
+            "Liberia"
+        ]
+    },
+    "Singapore": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Indonesia",
+            "Malaysia"
+        ]
+    },
+    "Sint Maarten": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Netherlands",
+            "",
+            "Saint Barth\u00e9lemy",
+            "France",
+            "",
+            "France"
+        ]
+    },
+    "Slovakia": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Austria",
+            "Czech Republic",
+            "Hungary",
+            "Poland",
+            "Ukraine"
+        ]
+    },
+    "Slovenia": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Austria",
+            "Croatia",
+            "Italy",
+            "Hungary"
+        ]
+    },
+    "Solomon Islands": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Fiji",
+            "Papua New Guinea",
+            "Vanuatu",
+            "Australia",
+            "New Caledonia",
+            "France"
+        ]
+    },
+    "Somalia": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Djibouti",
+            "Ethiopia",
+            "Kenya",
+            "Yemen"
+        ]
+    },
+    "South Africa": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Botswana",
+            "Lesotho",
+            "Mozambique",
+            "Namibia",
+            "Zimbabwe"
+        ]
+    },
+    "South Ossetia": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Georgia",
+            "Russia"
+        ]
+    },
+    "South Sudan": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Central African Republic",
+            "Ethiopia",
+            "Kenya",
+            "Sudan",
+            "Uganda"
+        ]
+    },
+    "Spain": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Algeria",
+            "Andorra",
+            "France",
+            "Italy",
+            "Morocco",
+            "Portugal",
+            "Gibraltar",
+            "United Kingdom",
+            "Western Sahara"
+        ]
+    },
+    "Sri Lanka": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "India",
+            "Maldives"
+        ]
+    },
+    "Sudan": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Central African Republic",
+            "Chad",
+            "Egypt",
+            "Eritrea",
+            "Ethiopia",
+            "Libya",
+            "Saudi Arabia",
+            "South Sudan"
+        ]
+    },
+    "Suriname": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Brazil",
+            "France",
+            "Guyana"
+        ]
+    },
+    "Sweden": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Denmark",
+            "Estonia",
+            "Finland",
+            "Germany",
+            "Latvia",
+            "Lithuania",
+            "Norway",
+            "Poland",
+            "Russia"
+        ]
+    },
+    "Switzerland": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Austria",
+            "France",
+            "Italy",
+            "Liechtenstein",
+            "Germany"
+        ]
+    },
+    "Syria": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Cyprus",
+            "Iraq",
+            "Israel",
+            "Jordan",
+            "Lebanon",
+            "Turkey",
+            "Northern Cyprus"
+        ]
+    },
+    "Taiwan": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Brunei",
+            "China",
+            "Indonesia",
+            "Japan",
+            "Malaysia",
+            "Philippines",
+            "Vietnam"
+        ]
+    },
+    "Tajikistan": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Afghanistan",
+            "China",
+            "Kyrgyzstan",
+            "Uzbekistan"
+        ]
+    },
+    "Tanzania": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Burundi",
+            "Comoros",
+            "Kenya",
+            "Malawi",
+            "Mozambique",
+            "Rwanda",
+            "Seychelles",
+            "Uganda",
+            "Zambia"
+        ]
+    },
+    "Thailand": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Myanmar",
+            "Cambodia",
+            "India",
+            "Indonesia",
+            "Laos",
+            "Malaysia",
+            "Vietnam"
+        ]
+    },
+    "Togo": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Benin",
+            "Burkina Faso",
+            "Ghana"
+        ]
+    },
+    "Tokelau": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Kiribati",
+            "Samoa",
+            "American Samoa",
+            "United States",
+            "Cook Islands",
+            "New Zealand",
+            "Wallis and Futuna",
+            "France"
+        ]
+    },
+    "Tonga": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Fiji",
+            "Samoa",
+            "American Samoa",
+            "United States",
+            "Niue",
+            "New Zealand",
+            "Wallis and Futuna",
+            "France"
+        ]
+    },
+    "Transnistria": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Moldova",
+            "Ukraine"
+        ]
+    },
+    "Trinidad and Tobago": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Barbados",
+            "Grenada",
+            "Guyana",
+            "Saint Vincent and the Grenadines",
+            "Venezuela"
+        ]
+    },
+    "Tunisia": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Algeria",
+            "Italy",
+            "Libya",
+            "Malta"
+        ]
+    },
+    "Turkey": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Armenia",
+            "Azerbaijan",
+            "Bulgaria",
+            "Cyprus",
+            "Egypt",
+            "Georgia",
+            "Greece",
+            "Iran",
+            "Iraq",
+            "Russia",
+            "Syria",
+            "Ukraine",
+            "Libya",
+            "Northern Cyprus"
+        ]
+    },
+    "Turkmenistan": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Afghanistan",
+            "Azerbaijan",
+            "Iran",
+            "Kazakhstan",
+            "Uzbekistan"
+        ]
+    },
+    "Turks and Caicos Islands": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Bahamas",
+            "Dominican Republic",
+            "Haiti"
+        ]
+    },
+    "Tuvalu": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Fiji",
+            "Kiribati",
+            "Wallis and Futuna",
+            "France"
+        ]
+    },
+    "Uganda": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Kenya",
+            "Rwanda",
+            "South Sudan",
+            "Tanzania"
+        ]
+    },
+    "Ukraine": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Belarus",
+            "Hungary",
+            "Moldova",
+            "Poland",
+            "Romania",
+            "Russia",
+            "Slovakia",
+            "Turkey"
+        ]
+    },
+    "United Arab Emirates": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Iran",
+            "Oman",
+            "Qatar",
+            "Saudi Arabia"
+        ]
+    },
+    "United Kingdom": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Antigua and Barbuda",
+            "Argentina",
+            "Bahamas",
+            "Belgium",
+            "Cuba",
+            "Cyprus",
+            "Denmark",
+            "Dominican Republic",
+            "France",
+            "Germany",
+            "Haiti",
+            "Honduras",
+            "Ireland",
+            "Jamaica",
+            "Maldives",
+            "Netherlands",
+            "Norway",
+            "Saint Kitts and Nevis",
+            "Spain",
+            "Venezuela",
+            "Faroe Islands",
+            "Denmark",
+            "French Polynesia",
+            "France",
+            "Puerto Rico",
+            "United States",
+            "Saint Barth\u00e9lemy",
+            "France",
+            "",
+            "France",
+            "United States"
+        ]
+    },
+    "United States": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Bahamas",
+            "Canada",
+            "Cuba",
+            "Dominican Republic",
+            "Haiti",
+            "Jamaica",
+            "Japan",
+            "Kiribati",
+            "Marshall Islands",
+            "Mexico",
+            "Netherlands",
+            "Russia",
+            "Samoa",
+            "Tonga",
+            "Venezuela",
+            "Anguilla",
+            "United Kingdom",
+            "British Virgin Islands",
+            "United Kingdom",
+            "Cook Islands",
+            "New Zealand",
+            "Niue",
+            "New Zealand",
+            "Tokelau",
+            "New Zealand"
+        ]
+    },
+    "Uruguay": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Argentina",
+            "Brazil"
+        ]
+    },
+    "Uzbekistan": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Afghanistan",
+            "Kazakhstan",
+            "Kyrgyzstan",
+            "Tajikistan",
+            "Turkmenistan"
+        ]
+    },
+    "Vanuatu": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Fiji",
+            "Solomon Islands",
+            "New Caledonia",
+            "France"
+        ]
+    },
+    "Vatican City": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Italy"
+        ]
+    },
+    "Venezuela": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Barbados",
+            "Brazil",
+            "Colombia",
+            "Dominica",
+            "Dominican Republic",
+            "France",
+            "Grenada",
+            "Guyana",
+            "Netherlands",
+            "Saint Kitts and Nevis",
+            "Saint Lucia",
+            "Saint Vincent and the Grenadines",
+            "Trinidad and Tobago",
+            "Aruba",
+            "Netherlands",
+            "Cura\u00e7ao",
+            "Netherlands",
+            "Montserrat",
+            "United Kingdom",
+            "Puerto Rico",
+            "United States",
+            "United States"
+        ]
+    },
+    "Vietnam": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Brunei",
+            "Cambodia",
+            "China",
+            "Indonesia",
+            "Laos",
+            "Malaysia",
+            "Philippines",
+            "Taiwan",
+            "Thailand"
+        ]
+    },
+    "Wallis and Futuna": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Fiji",
+            "Samoa",
+            "Tonga",
+            "Tuvalu",
+            "Tokelau",
+            "New Zealand"
+        ]
+    },
+    "Western Sahara": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Algeria",
+            "Mauritania",
+            "Morocco",
+            "Spain"
+        ]
+    },
+    "Yemen": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Djibouti",
+            "Eritrea",
+            "Oman",
+            "Saudi Arabia",
+            "Somalia"
+        ]
+    },
+    "Zambia": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Angola",
+            "Botswana",
+            "Malawi",
+            "Mozambique",
+            "Namibia",
+            "Tanzania",
+            "Zimbabwe"
+        ]
+    },
+    "Zimbabwe": {
+        "militarypower": 0,
+        "alliance": 0,
+        "neighbours": [
+            "Botswana",
+            "Mozambique",
+            "South Africa",
+            "Zambia"
+        ]
+    }
 }
