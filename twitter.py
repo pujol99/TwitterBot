@@ -17,18 +17,8 @@ class TwitterAPI:
     def me(self):
         return self.api.me()
 
-    def friends(self, id):
+    def update_status(self, status):
+        self.api.update_status(status=status)
+
+    def followers(self, id):
         return self.api.followers_ids(id)
-
-    def most_popular(self, ids):
-        popular = -1, None
-        for id in ids:
-            user = self.api.get_user(id)
-            print(user.followers_count, user.name)
-            # if len(self.api.followers(id)) > popular[0]:
-            #     popular = self.api.followers(id), self.api.get_user(id)
-
-        return popular[1]
-
-twitter = TwitterAPI()
-print(twitter.most_popular(twitter.friends(twitter.me().id)))
