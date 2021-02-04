@@ -1,5 +1,6 @@
 from bs4 import BeautifulSoup
 import requests
+import json
 
 def get_page(url):
     response = requests.get(url)
@@ -23,3 +24,20 @@ def find_neighbours(country, valid_countries):
             neighbours.append(tag.text)
 
     return neighbours
+
+def fromJsonFile():
+    with open('data/countries.json') as outfile:
+        return json.load(outfile)
+
+def toJsonFile(content):
+    with open('data/countries.json', 'w') as outfile:
+        json.dump(content, outfile, indent=4)
+
+def updatePower(power):
+    data = fromJsonFile()
+
+    for name, power in power.items():
+        if name in data:
+            data[name]['militarypower'] = power
+            
+    toJsonFile(data)

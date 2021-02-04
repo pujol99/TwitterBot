@@ -1,9 +1,15 @@
-import requests
-from bs4 import BeautifulSoup
+from src.dataGathering import DataGathering
+from src.militarPower import MilitaryPower
+from src.utils import *
+import random
 
-url = 'https://mapchart.net/europe.html'
+data = fromJsonFile()
 
-response = requests.get(url)
-soup = BeautifulSoup(response.text, 'html.parser')
+i = 0
+total = 0
+for country in data:
+    if data[country]['militarypower']:
+        i += 1
+    total += 1
 
-print(soup.find('svg'))
+print(i/total)

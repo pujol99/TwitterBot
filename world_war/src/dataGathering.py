@@ -1,5 +1,4 @@
-from utils import *
-import json
+from .utils import *
 
 class DataGathering:
     """
@@ -37,13 +36,3 @@ class DataGathering:
                     "alliance": 0,
                     # Get neighbours column and check that they are valid countries
                     "neighbours": find_neighbours(country, self.names)}
-                
-
-    def toJsonFile(self):
-        with open('data/countries.json', 'w') as outfile:
-            json.dump(self.countries, outfile, indent=4)
-
-dg = DataGathering()
-dg.gatherNames()
-dg.gatherNeighbours()
-dg.toJsonFile()

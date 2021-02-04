@@ -1,11 +1,6 @@
 {
-    "": {
-        "militarypower": 0,
-        "alliance": 0,
-        "neighbours": []
-    },
     "Afghanistan": {
-        "militarypower": 0,
+        "militarypower": "1.4887",
         "alliance": 0,
         "neighbours": [
             "China",
@@ -17,7 +12,7 @@
         ]
     },
     "Albania": {
-        "militarypower": 0,
+        "militarypower": "2.9166",
         "alliance": 0,
         "neighbours": [
             "Greece",
@@ -27,7 +22,7 @@
         ]
     },
     "Algeria": {
-        "militarypower": 0,
+        "militarypower": "0.4439",
         "alliance": 0,
         "neighbours": [
             "Italy",
@@ -41,7 +36,7 @@
         ]
     },
     "Angola": {
-        "militarypower": 0,
+        "militarypower": "1.0799",
         "alliance": 0,
         "neighbours": [
             "Namibia",
@@ -49,7 +44,7 @@
         ]
     },
     "Argentina": {
-        "militarypower": 0,
+        "militarypower": "0.7026",
         "alliance": 0,
         "neighbours": [
             "Bolivia",
@@ -60,7 +55,7 @@
         ]
     },
     "Armenia": {
-        "militarypower": 0,
+        "militarypower": "2.4216",
         "alliance": 0,
         "neighbours": [
             "Azerbaijan",
@@ -70,7 +65,7 @@
         ]
     },
     "Australia": {
-        "militarypower": 0,
+        "militarypower": "0.3378",
         "alliance": 0,
         "neighbours": [
             "East Timor",
@@ -81,7 +76,7 @@
         ]
     },
     "Austria": {
-        "militarypower": 0,
+        "militarypower": "0.9705",
         "alliance": 0,
         "neighbours": [
             "Czech Republic",
@@ -94,7 +89,7 @@
         ]
     },
     "Azerbaijan": {
-        "militarypower": 0,
+        "militarypower": "1.0472",
         "alliance": 0,
         "neighbours": [
             "Armenia",
@@ -107,7 +102,7 @@
         ]
     },
     "Bahrain": {
-        "militarypower": 0,
+        "militarypower": "2.5132",
         "alliance": 0,
         "neighbours": [
             "Iran",
@@ -116,7 +111,7 @@
         ]
     },
     "Bangladesh": {
-        "militarypower": 0,
+        "militarypower": "0.7473",
         "alliance": 0,
         "neighbours": [
             "Myanmar",
@@ -124,7 +119,7 @@
         ]
     },
     "Belarus": {
-        "militarypower": 0,
+        "militarypower": "0.8371",
         "alliance": 0,
         "neighbours": [
             "Latvia",
@@ -135,7 +130,7 @@
         ]
     },
     "Belgium": {
-        "militarypower": 0,
+        "militarypower": "1.1809",
         "alliance": 0,
         "neighbours": [
             "France",
@@ -156,7 +151,7 @@
         ]
     },
     "Bhutan": {
-        "militarypower": 0,
+        "militarypower": "23.2577",
         "alliance": 0,
         "neighbours": [
             "China",
@@ -164,7 +159,7 @@
         ]
     },
     "Bolivia": {
-        "militarypower": 0,
+        "militarypower": "1.5491",
         "alliance": 0,
         "neighbours": [
             "Argentina",
@@ -175,7 +170,7 @@
         ]
     },
     "Bosnia and Herzegovina": {
-        "militarypower": 0,
+        "militarypower": "4.0474",
         "alliance": 0,
         "neighbours": [
             "Croatia",
@@ -184,7 +179,7 @@
         ]
     },
     "Botswana": {
-        "militarypower": 0,
+        "militarypower": "2.5679",
         "alliance": 0,
         "neighbours": [
             "Namibia",
@@ -194,13 +189,12 @@
         ]
     },
     "Brazil": {
-        "militarypower": 0,
+        "militarypower": "0.2026",
         "alliance": 0,
         "neighbours": [
             "Argentina",
             "Bolivia",
             "Colombia",
-            "France",
             "Guyana",
             "Paraguay",
             "Peru",
@@ -210,7 +204,7 @@
         ]
     },
     "Bulgaria": {
-        "militarypower": 0,
+        "militarypower": "1.1438",
         "alliance": 0,
         "neighbours": [
             "Greece",
@@ -221,7 +215,7 @@
         ]
     },
     "Burkina Faso": {
-        "militarypower": 0,
+        "militarypower": "4.6697",
         "alliance": 0,
         "neighbours": [
             "Benin",
@@ -240,7 +234,7 @@
         ]
     },
     "Cambodia": {
-        "militarypower": 0,
+        "militarypower": "2.2751",
         "alliance": 0,
         "neighbours": [
             "Laos",
@@ -249,7 +243,7 @@
         ]
     },
     "Cameroon": {
-        "militarypower": 0,
+        "militarypower": "2.7408",
         "alliance": 0,
         "neighbours": [
             "Central African Republic",
@@ -260,7 +254,7 @@
         ]
     },
     "Canada": {
-        "militarypower": 0,
+        "militarypower": "0.3956",
         "alliance": 0,
         "neighbours": [
             "United States"
@@ -275,7 +269,7 @@
         ]
     },
     "Central African Republic": {
-        "militarypower": 0,
+        "militarypower": "4.9381",
         "alliance": 0,
         "neighbours": [
             "Cameroon",
@@ -285,7 +279,7 @@
         ]
     },
     "Chad": {
-        "militarypower": 0,
+        "militarypower": "2.1523",
         "alliance": 0,
         "neighbours": [
             "Cameroon",
@@ -297,7 +291,7 @@
         ]
     },
     "Chile": {
-        "militarypower": 0,
+        "militarypower": "0.8227",
         "alliance": 0,
         "neighbours": [
             "Argentina",
@@ -306,7 +300,7 @@
         ]
     },
     "China": {
-        "militarypower": 0,
+        "militarypower": "0.0854",
         "alliance": 0,
         "neighbours": [
             "Afghanistan",
@@ -331,7 +325,7 @@
         ]
     },
     "Colombia": {
-        "militarypower": 0,
+        "militarypower": "0.6841",
         "alliance": 0,
         "neighbours": [
             "Brazil",
@@ -350,7 +344,6 @@
         "militarypower": 0,
         "alliance": 0,
         "neighbours": [
-            "France",
             "Madagascar",
             "Mozambique",
             "Tanzania"
@@ -367,7 +360,7 @@
         ]
     },
     "Croatia": {
-        "militarypower": 0,
+        "militarypower": "1.0331",
         "alliance": 0,
         "neighbours": [
             "Bosnia and Herzegovina",
@@ -379,7 +372,7 @@
         ]
     },
     "Cuba": {
-        "militarypower": 0,
+        "militarypower": "1.4937",
         "alliance": 0,
         "neighbours": [
             "Haiti",
@@ -405,7 +398,7 @@
         ]
     },
     "Denmark": {
-        "militarypower": 0,
+        "militarypower": "0.8921",
         "alliance": 0,
         "neighbours": [
             "Germany",
@@ -426,7 +419,7 @@
         ]
     },
     "Dominican Republic": {
-        "militarypower": 0,
+        "militarypower": "4.2916",
         "alliance": 0,
         "neighbours": [
             "Colombia",
@@ -443,7 +436,7 @@
         ]
     },
     "Ecuador": {
-        "militarypower": 0,
+        "militarypower": "1.2261",
         "alliance": 0,
         "neighbours": [
             "Colombia",
@@ -452,7 +445,7 @@
         ]
     },
     "Egypt": {
-        "militarypower": 0,
+        "militarypower": "0.2216",
         "alliance": 0,
         "neighbours": [
             "Cyprus",
@@ -466,7 +459,7 @@
         ]
     },
     "El Salvador": {
-        "militarypower": 0,
+        "militarypower": "4.4774",
         "alliance": 0,
         "neighbours": [
             "Guatemala",
@@ -484,7 +477,7 @@
         ]
     },
     "Eritrea": {
-        "militarypower": 0,
+        "militarypower": "5.6579",
         "alliance": 0,
         "neighbours": [
             "Djibouti",
@@ -495,7 +488,7 @@
         ]
     },
     "Estonia": {
-        "militarypower": 0,
+        "militarypower": "2.8387",
         "alliance": 0,
         "neighbours": [
             "Finland",
@@ -505,7 +498,7 @@
         ]
     },
     "Ethiopia": {
-        "militarypower": 0,
+        "militarypower": "0.9895",
         "alliance": 0,
         "neighbours": [
             "Djibouti",
@@ -525,7 +518,7 @@
         ]
     },
     "Finland": {
-        "militarypower": 0,
+        "militarypower": "0.9335",
         "alliance": 0,
         "neighbours": [
             "Estonia",
@@ -535,26 +528,20 @@
         ]
     },
     "France": {
-        "militarypower": 0,
+        "militarypower": "0.1681",
         "alliance": 0,
         "neighbours": [
             "Belgium",
-            "Brazil",
-            "Comoros",
             "Germany",
             "Italy",
             "Luxembourg",
-            "Madagascar",
-            "Mauritius",
             "Spain",
             "Switzerland",
-            "Suriname",
-            "United Kingdom",
-            "Venezuela"
+            "United Kingdom"
         ]
     },
     "Gabon": {
-        "militarypower": 0,
+        "militarypower": "4.9661",
         "alliance": 0,
         "neighbours": [
             "Cameroon",
@@ -562,7 +549,7 @@
         ]
     },
     "Georgia": {
-        "militarypower": 0,
+        "militarypower": "2.2265",
         "alliance": 0,
         "neighbours": [
             "Armenia",
@@ -572,7 +559,7 @@
         ]
     },
     "Germany": {
-        "militarypower": 0,
+        "militarypower": "0.2519",
         "alliance": 0,
         "neighbours": [
             "Austria",
@@ -589,7 +576,7 @@
         ]
     },
     "Ghana": {
-        "militarypower": 0,
+        "militarypower": "2.3606",
         "alliance": 0,
         "neighbours": [
             "Burkina Faso",
@@ -597,7 +584,7 @@
         ]
     },
     "Greece": {
-        "militarypower": 0,
+        "militarypower": "0.4954",
         "alliance": 0,
         "neighbours": [
             "Albania",
@@ -611,7 +598,7 @@
         ]
     },
     "Guatemala": {
-        "militarypower": 0,
+        "militarypower": "2.2918",
         "alliance": 0,
         "neighbours": [
             "El Salvador",
@@ -659,7 +646,7 @@
         ]
     },
     "Honduras": {
-        "militarypower": 0,
+        "militarypower": "2.9279",
         "alliance": 0,
         "neighbours": [
             "Cuba",
@@ -678,7 +665,7 @@
         ]
     },
     "Hungary": {
-        "militarypower": 0,
+        "militarypower": "0.9187",
         "alliance": 0,
         "neighbours": [
             "Austria",
@@ -691,7 +678,7 @@
         ]
     },
     "India": {
-        "militarypower": 0,
+        "militarypower": "0.1207",
         "alliance": 0,
         "neighbours": [
             "Bangladesh",
@@ -706,7 +693,7 @@
         ]
     },
     "Indonesia": {
-        "militarypower": 0,
+        "militarypower": "0.2684",
         "alliance": 0,
         "neighbours": [
             "Australia",
@@ -720,7 +707,7 @@
         ]
     },
     "Iran": {
-        "militarypower": 0,
+        "militarypower": "0.2511",
         "alliance": 0,
         "neighbours": [
             "Afghanistan",
@@ -739,7 +726,7 @@
         ]
     },
     "Iraq": {
-        "militarypower": 0,
+        "militarypower": "0.9334",
         "alliance": 0,
         "neighbours": [
             "Iran",
@@ -751,14 +738,14 @@
         ]
     },
     "Ireland": {
-        "militarypower": 0,
+        "militarypower": "2.3861",
         "alliance": 0,
         "neighbours": [
             "United Kingdom"
         ]
     },
     "Israel": {
-        "militarypower": 0,
+        "militarypower": "0.3464",
         "alliance": 0,
         "neighbours": [
             "Cyprus",
@@ -769,7 +756,7 @@
         ]
     },
     "Italy": {
-        "militarypower": 0,
+        "militarypower": "0.2127",
         "alliance": 0,
         "neighbours": [
             "Albania",
@@ -799,7 +786,7 @@
         ]
     },
     "Japan": {
-        "militarypower": 0,
+        "militarypower": "0.1599",
         "alliance": 0,
         "neighbours": [
             "China",
@@ -809,7 +796,7 @@
         ]
     },
     "Jordan": {
-        "militarypower": 0,
+        "militarypower": "1.4417",
         "alliance": 0,
         "neighbours": [
             "Egypt",
@@ -820,7 +807,7 @@
         ]
     },
     "Kazakhstan": {
-        "militarypower": 0,
+        "militarypower": "1.0286",
         "alliance": 0,
         "neighbours": [
             "Azerbaijan",
@@ -832,7 +819,7 @@
         ]
     },
     "Kenya": {
-        "militarypower": 0,
+        "militarypower": "1.7241",
         "alliance": 0,
         "neighbours": [
             "Ethiopia",
@@ -843,7 +830,7 @@
         ]
     },
     "North Korea": {
-        "militarypower": 0,
+        "militarypower": "0.4673",
         "alliance": 0,
         "neighbours": [
             "China",
@@ -852,7 +839,7 @@
         ]
     },
     "South Korea": {
-        "militarypower": 0,
+        "militarypower": "0.1612",
         "alliance": 0,
         "neighbours": [
             "China",
@@ -871,7 +858,7 @@
         ]
     },
     "Kuwait": {
-        "militarypower": 0,
+        "militarypower": "1.3322",
         "alliance": 0,
         "neighbours": [
             "Iran",
@@ -880,7 +867,7 @@
         ]
     },
     "Kyrgyzstan": {
-        "militarypower": 0,
+        "militarypower": "2.2369",
         "alliance": 0,
         "neighbours": [
             "China",
@@ -890,7 +877,7 @@
         ]
     },
     "Laos": {
-        "militarypower": 0,
+        "militarypower": "3.3003",
         "alliance": 0,
         "neighbours": [
             "Myanmar",
@@ -901,7 +888,7 @@
         ]
     },
     "Latvia": {
-        "militarypower": 0,
+        "militarypower": "2.3756",
         "alliance": 0,
         "neighbours": [
             "Belarus",
@@ -912,7 +899,7 @@
         ]
     },
     "Lebanon": {
-        "militarypower": 0,
+        "militarypower": "3.0014",
         "alliance": 0,
         "neighbours": [
             "Cyprus",
@@ -928,7 +915,7 @@
         ]
     },
     "Liberia": {
-        "militarypower": 0,
+        "militarypower": "9.9159",
         "alliance": 0,
         "neighbours": [
             "Guinea",
@@ -936,7 +923,7 @@
         ]
     },
     "Libya": {
-        "militarypower": 0,
+        "militarypower": "1.2736",
         "alliance": 0,
         "neighbours": [
             "Algeria",
@@ -952,7 +939,7 @@
         ]
     },
     "Lithuania": {
-        "militarypower": 0,
+        "militarypower": "1.7549",
         "alliance": 0,
         "neighbours": [
             "Belarus",
@@ -979,11 +966,10 @@
         ]
     },
     "Madagascar": {
-        "militarypower": 0,
+        "militarypower": "4.4214",
         "alliance": 0,
         "neighbours": [
             "Comoros",
-            "France",
             "Mauritius",
             "Mozambique"
         ]
@@ -998,7 +984,7 @@
         ]
     },
     "Malaysia": {
-        "militarypower": 0,
+        "militarypower": "0.7451",
         "alliance": 0,
         "neighbours": [
             "China",
@@ -1010,7 +996,7 @@
         ]
     },
     "Mali": {
-        "militarypower": 0,
+        "militarypower": "2.5558",
         "alliance": 0,
         "neighbours": [
             "Algeria",
@@ -1031,7 +1017,7 @@
         ]
     },
     "Mauritania": {
-        "militarypower": 0,
+        "militarypower": "4.4027",
         "alliance": 0,
         "neighbours": [
             "Algeria",
@@ -1044,12 +1030,11 @@
         "militarypower": 0,
         "alliance": 0,
         "neighbours": [
-            "France",
             "Madagascar"
         ]
     },
     "Mexico": {
-        "militarypower": 0,
+        "militarypower": "0.7565",
         "alliance": 0,
         "neighbours": [
             "Cuba",
@@ -1059,7 +1044,7 @@
         ]
     },
     "Moldova": {
-        "militarypower": 0,
+        "militarypower": "2.6228",
         "alliance": 0,
         "neighbours": [
             "Romania",
@@ -1067,7 +1052,7 @@
         ]
     },
     "Mongolia": {
-        "militarypower": 0,
+        "militarypower": "2.4284",
         "alliance": 0,
         "neighbours": [
             "China",
@@ -1075,7 +1060,7 @@
         ]
     },
     "Montenegro": {
-        "militarypower": 0,
+        "militarypower": "4.3841",
         "alliance": 0,
         "neighbours": [
             "Albania",
@@ -1086,7 +1071,7 @@
         ]
     },
     "Morocco": {
-        "militarypower": 0,
+        "militarypower": "0.8739",
         "alliance": 0,
         "neighbours": [
             "Algeria",
@@ -1095,7 +1080,7 @@
         ]
     },
     "Mozambique": {
-        "militarypower": 0,
+        "militarypower": "3.1763",
         "alliance": 0,
         "neighbours": [
             "Comoros",
@@ -1108,7 +1093,7 @@
         ]
     },
     "Myanmar": {
-        "militarypower": 0,
+        "militarypower": "0.6521",
         "alliance": 0,
         "neighbours": [
             "Bangladesh",
@@ -1119,7 +1104,7 @@
         ]
     },
     "Namibia": {
-        "militarypower": 0,
+        "militarypower": "4.4392",
         "alliance": 0,
         "neighbours": [
             "Angola",
@@ -1129,7 +1114,7 @@
         ]
     },
     "Nepal": {
-        "militarypower": 0,
+        "militarypower": "3.4701",
         "alliance": 0,
         "neighbours": [
             "India",
@@ -1137,17 +1122,16 @@
         ]
     },
     "Netherlands": {
-        "militarypower": 0,
+        "militarypower": "0.6391",
         "alliance": 0,
         "neighbours": [
             "Belgium",
             "Germany",
-            "United Kingdom",
-            "Venezuela"
+            "United Kingdom"
         ]
     },
     "New Zealand": {
-        "militarypower": 0,
+        "militarypower": "1.7461",
         "alliance": 0,
         "neighbours": [
             "Australia",
@@ -1155,7 +1139,7 @@
         ]
     },
     "Nicaragua": {
-        "militarypower": 0,
+        "militarypower": "3.4924",
         "alliance": 0,
         "neighbours": [
             "Colombia",
@@ -1167,7 +1151,7 @@
         ]
     },
     "Niger": {
-        "militarypower": 0,
+        "militarypower": "2.5493",
         "alliance": 0,
         "neighbours": [
             "Algeria",
@@ -1180,7 +1164,7 @@
         ]
     },
     "Nigeria": {
-        "militarypower": 0,
+        "militarypower": "0.6241",
         "alliance": 0,
         "neighbours": [
             "Benin",
@@ -1191,7 +1175,7 @@
         ]
     },
     "North Macedonia": {
-        "militarypower": 0,
+        "militarypower": "5.0801",
         "alliance": 0,
         "neighbours": [
             "Albania",
@@ -1201,7 +1185,7 @@
         ]
     },
     "Norway": {
-        "militarypower": 0,
+        "militarypower": "0.5717",
         "alliance": 0,
         "neighbours": [
             "Denmark",
@@ -1212,7 +1196,7 @@
         ]
     },
     "Oman": {
-        "militarypower": 0,
+        "militarypower": "1.3911",
         "alliance": 0,
         "neighbours": [
             "Iran",
@@ -1223,7 +1207,7 @@
         ]
     },
     "Pakistan": {
-        "militarypower": 0,
+        "militarypower": "0.2073",
         "alliance": 0,
         "neighbours": [
             "Afghanistan",
@@ -1234,7 +1218,7 @@
         ]
     },
     "Panama": {
-        "militarypower": 0,
+        "militarypower": "4.7889",
         "alliance": 0,
         "neighbours": [
             "Colombia",
@@ -1252,7 +1236,7 @@
         ]
     },
     "Paraguay": {
-        "militarypower": 0,
+        "militarypower": "2.8964",
         "alliance": 0,
         "neighbours": [
             "Argentina",
@@ -1261,7 +1245,7 @@
         ]
     },
     "Peru": {
-        "militarypower": 0,
+        "militarypower": "0.7931",
         "alliance": 0,
         "neighbours": [
             "Bolivia",
@@ -1272,7 +1256,7 @@
         ]
     },
     "Philippines": {
-        "militarypower": 0,
+        "militarypower": "0.8219",
         "alliance": 0,
         "neighbours": [
             "China",
@@ -1283,7 +1267,7 @@
         ]
     },
     "Poland": {
-        "militarypower": 0,
+        "militarypower": "0.4187",
         "alliance": 0,
         "neighbours": [
             "Belarus",
@@ -1298,7 +1282,7 @@
         ]
     },
     "Portugal": {
-        "militarypower": 0,
+        "militarypower": "0.8661",
         "alliance": 0,
         "neighbours": [
             "Morocco",
@@ -1314,7 +1298,7 @@
         ]
     },
     "Qatar": {
-        "militarypower": 0,
+        "militarypower": "1.6175",
         "alliance": 0,
         "neighbours": [
             "Bahrain",
@@ -1324,7 +1308,7 @@
         ]
     },
     "Romania": {
-        "militarypower": 0,
+        "militarypower": "0.6953",
         "alliance": 0,
         "neighbours": [
             "Bulgaria",
@@ -1336,7 +1320,7 @@
         ]
     },
     "Russia": {
-        "militarypower": 0,
+        "militarypower": "0.0791",
         "alliance": 0,
         "neighbours": [
             "Azerbaijan",
@@ -1370,7 +1354,7 @@
         ]
     },
     "Saudi Arabia": {
-        "militarypower": 0,
+        "militarypower": "0.3231",
         "alliance": 0,
         "neighbours": [
             "Bahrain",
@@ -1399,7 +1383,7 @@
         ]
     },
     "Serbia": {
-        "militarypower": 0,
+        "militarypower": "1.0063",
         "alliance": 0,
         "neighbours": [
             "Bosnia and Herzegovina",
@@ -1412,7 +1396,7 @@
         ]
     },
     "Sierra Leone": {
-        "militarypower": 0,
+        "militarypower": "7.2063",
         "alliance": 0,
         "neighbours": [
             "Guinea",
@@ -1420,7 +1404,7 @@
         ]
     },
     "Singapore": {
-        "militarypower": 0,
+        "militarypower": "0.6931",
         "alliance": 0,
         "neighbours": [
             "Indonesia",
@@ -1428,7 +1412,7 @@
         ]
     },
     "Slovakia": {
-        "militarypower": 0,
+        "militarypower": "0.9451",
         "alliance": 0,
         "neighbours": [
             "Austria",
@@ -1439,7 +1423,7 @@
         ]
     },
     "Slovenia": {
-        "militarypower": 0,
+        "militarypower": "2.0782",
         "alliance": 0,
         "neighbours": [
             "Austria",
@@ -1457,7 +1441,7 @@
         ]
     },
     "Somalia": {
-        "militarypower": 0,
+        "militarypower": "8.0104",
         "alliance": 0,
         "neighbours": [
             "Djibouti",
@@ -1467,7 +1451,7 @@
         ]
     },
     "South Africa": {
-        "militarypower": 0,
+        "militarypower": "0.5665",
         "alliance": 0,
         "neighbours": [
             "Botswana",
@@ -1478,7 +1462,7 @@
         ]
     },
     "South Sudan": {
-        "militarypower": 0,
+        "militarypower": "2.8581",
         "alliance": 0,
         "neighbours": [
             "Central African Republic",
@@ -1489,7 +1473,7 @@
         ]
     },
     "Spain": {
-        "militarypower": 0,
+        "militarypower": "0.3257",
         "alliance": 0,
         "neighbours": [
             "Algeria",
@@ -1500,14 +1484,14 @@
         ]
     },
     "Sri Lanka": {
-        "militarypower": 0,
+        "militarypower": "1.5426",
         "alliance": 0,
         "neighbours": [
             "India"
         ]
     },
     "Sudan": {
-        "militarypower": 0,
+        "militarypower": "1.5159",
         "alliance": 0,
         "neighbours": [
             "Central African Republic",
@@ -1521,16 +1505,15 @@
         ]
     },
     "Suriname": {
-        "militarypower": 0,
+        "militarypower": "8.0693",
         "alliance": 0,
         "neighbours": [
             "Brazil",
-            "France",
             "Guyana"
         ]
     },
     "Sweden": {
-        "militarypower": 0,
+        "militarypower": "0.5345",
         "alliance": 0,
         "neighbours": [
             "Denmark",
@@ -1545,7 +1528,7 @@
         ]
     },
     "Switzerland": {
-        "militarypower": 0,
+        "militarypower": "0.5011",
         "alliance": 0,
         "neighbours": [
             "Austria",
@@ -1555,7 +1538,7 @@
         ]
     },
     "Syria": {
-        "militarypower": 0,
+        "militarypower": "1.0506",
         "alliance": 0,
         "neighbours": [
             "Cyprus",
@@ -1567,7 +1550,7 @@
         ]
     },
     "Taiwan": {
-        "militarypower": 0,
+        "militarypower": "0.4154",
         "alliance": 0,
         "neighbours": [
             "China",
@@ -1579,7 +1562,7 @@
         ]
     },
     "Tajikistan": {
-        "militarypower": 0,
+        "militarypower": "2.4035",
         "alliance": 0,
         "neighbours": [
             "Afghanistan",
@@ -1589,7 +1572,7 @@
         ]
     },
     "Tanzania": {
-        "militarypower": 0,
+        "militarypower": "2.9155",
         "alliance": 0,
         "neighbours": [
             "Burundi",
@@ -1603,7 +1586,7 @@
         ]
     },
     "Thailand": {
-        "militarypower": 0,
+        "militarypower": "0.4427",
         "alliance": 0,
         "neighbours": [
             "Myanmar",
@@ -1633,7 +1616,7 @@
         ]
     },
     "Tunisia": {
-        "militarypower": 0,
+        "militarypower": "1.4134",
         "alliance": 0,
         "neighbours": [
             "Algeria",
@@ -1643,7 +1626,7 @@
         ]
     },
     "Turkey": {
-        "militarypower": 0,
+        "militarypower": "0.2109",
         "alliance": 0,
         "neighbours": [
             "Armenia",
@@ -1662,7 +1645,7 @@
         ]
     },
     "Turkmenistan": {
-        "militarypower": 0,
+        "militarypower": "1.7598",
         "alliance": 0,
         "neighbours": [
             "Afghanistan",
@@ -1673,7 +1656,7 @@
         ]
     },
     "Uganda": {
-        "militarypower": 0,
+        "militarypower": "2.1208",
         "alliance": 0,
         "neighbours": [
             "Kenya",
@@ -1683,7 +1666,7 @@
         ]
     },
     "Ukraine": {
-        "militarypower": 0,
+        "militarypower": "0.4396",
         "alliance": 0,
         "neighbours": [
             "Belarus",
@@ -1697,7 +1680,7 @@
         ]
     },
     "United Arab Emirates": {
-        "militarypower": 0,
+        "militarypower": "0.6249",
         "alliance": 0,
         "neighbours": [
             "Iran",
@@ -1707,7 +1690,7 @@
         ]
     },
     "United Kingdom": {
-        "militarypower": 0,
+        "militarypower": "0.1997",
         "alliance": 0,
         "neighbours": [
             "Belgium",
@@ -1720,7 +1703,7 @@
         ]
     },
     "United States": {
-        "militarypower": 0,
+        "militarypower": "0.0718",
         "alliance": 0,
         "neighbours": [
             "Canada",
@@ -1730,7 +1713,7 @@
         ]
     },
     "Uruguay": {
-        "militarypower": 0,
+        "militarypower": "2.4876",
         "alliance": 0,
         "neighbours": [
             "Argentina",
@@ -1738,7 +1721,7 @@
         ]
     },
     "Uzbekistan": {
-        "militarypower": 0,
+        "militarypower": "0.8421",
         "alliance": 0,
         "neighbours": [
             "Afghanistan",
@@ -1749,20 +1732,18 @@
         ]
     },
     "Venezuela": {
-        "militarypower": 0,
+        "militarypower": "0.7116",
         "alliance": 0,
         "neighbours": [
             "Brazil",
             "Colombia",
             "Dominican Republic",
-            "France",
             "Guyana",
-            "Netherlands",
             "Trinidad and Tobago"
         ]
     },
     "Vietnam": {
-        "militarypower": 0,
+        "militarypower": "0.4189",
         "alliance": 0,
         "neighbours": [
             "Cambodia",
@@ -1786,7 +1767,7 @@
         ]
     },
     "Yemen": {
-        "militarypower": 0,
+        "militarypower": "1.5172",
         "alliance": 0,
         "neighbours": [
             "Djibouti",
@@ -1797,7 +1778,7 @@
         ]
     },
     "Zambia": {
-        "militarypower": 0,
+        "militarypower": "2.0632",
         "alliance": 0,
         "neighbours": [
             "Angola",
@@ -1810,7 +1791,7 @@
         ]
     },
     "Zimbabwe": {
-        "militarypower": 0,
+        "militarypower": "2.1938",
         "alliance": 0,
         "neighbours": [
             "Botswana",
