@@ -7,7 +7,7 @@ class DataGathering:
             "militarypower"
             "neighbours"
             "%alliance"
-        }   
+        }
     """
     def __init__(self):
         self.frontiers = 'https://en.wikipedia.org/wiki/List_of_countries_and_territories_by_land_and_maritime_borders'
@@ -19,8 +19,10 @@ class DataGathering:
         page = get_page(self.populations)
         countries = page.find('tbody')
 
-        for country in countries.findAll('tr')[1:]:
-            self.names.add(clean(country.find('a')))
+        # Read first 180 countries that have more than half million population
+        for country in countries.findAll('tr')[1:180]:
+            if valid_country(country):
+                self.names.add(country.find('a').text)
 
 
     def gatherNeighbours(self):
@@ -28,18 +30,20 @@ class DataGathering:
         countries = page.find('tbody')
 
         for country in countries.findAll('tr')[3:]:
-            name = clean(country.find('td').find('a'))
-            if name in self.names:
+            name = country.find('td').find('a').text
+            if name in self.names - set(self.countries):
                 self.countries[name] = {
                     "militarypower": 0,
                     "alliance": 0,
-                    "neighbours": [clean(a) for a in country.findAll('td')[4].findAll('a') if clean(a) in self.names]
-                }
-
-    def cleanNeighbours(self):
-        for country in self.countries.keys():
-            self.countries[country]['neighbours'] = [country for country in self.countries[country]['neighbours'] if country in self.countries.keys()]
+                    # Get neighbours column and check that they are valid countries
+                    "neighbours": find_neighbours(country, self.names)}
+                
 
     def toJsonFile(self):
         with open('data/countries.json', 'w') as outfile:
             json.dump(self.countries, outfile, indent=4)
+
+dg = DataGathering()
+dg.gatherNames()
+dg.gatherNeighbours()
+dg.toJsonFile()
